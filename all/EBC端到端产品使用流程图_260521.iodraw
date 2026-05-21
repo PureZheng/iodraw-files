@@ -266,35 +266,38 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-115" value="洞察总结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-500" y="1530" width="80" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-5" value="&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 16px;&quot;&gt;通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="150" width="390" height="90" as="geometry" />
+        <mxCell id="vCcsDu77PnLvso-1vrZt-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-910" y="150" width="390" height="1810" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;通过可视化呈现品种实体及其上下游关系，并整合关联数据、图表、资讯与报告，为用户提供一站式产业链洞察，助力高效把握行业格局与业务联动逻辑。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="295" width="390" height="90" as="geometry" />
+        <mxCell id="vCcsDu77PnLvso-1vrZt-5" value="&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 16px;&quot;&gt;通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="vCcsDu77PnLvso-1vrZt-16">
+          <mxGeometry width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-8" value="&lt;div&gt;通过支持自定义配置的目录化管理，精准展示对应品种的研究报告，为用户提供结构化、个性化的行业品种深度洞察与专业分析支撑，高效满足差异化的研究信息获取需求。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="460" width="390" height="90" as="geometry" />
+        <mxCell id="vCcsDu77PnLvso-1vrZt-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;通过可视化呈现品种实体及其上下游关系，并整合关联数据、图表、资讯与报告，为用户提供一站式产业链洞察，助力高效把握行业格局与业务联动逻辑。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="vCcsDu77PnLvso-1vrZt-16">
+          <mxGeometry y="145" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-9" value="&lt;div&gt;通过汇总、成交持仓、持仓结构、建仓过程、持仓均价及盈亏分析，为用户提供全方位期货持仓数据洞察，助力精准把握资金动向与交易策略。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="630" width="390" height="90" as="geometry" />
+        <mxCell id="vCcsDu77PnLvso-1vrZt-8" value="&lt;div&gt;通过支持自定义配置的目录化管理，精准展示对应品种的研究报告，为用户提供结构化、个性化的行业品种深度洞察与专业分析支撑，高效满足差异化的研究信息获取需求。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="vCcsDu77PnLvso-1vrZt-16">
+          <mxGeometry y="310" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-10" value="&lt;div&gt;通过整合数据库、图表库、数据分析、表单管理与价格中心等能力，为用户提供一站式数据采集、管理、分析与可视化服务，实现行业数据的高效沉淀与业务洞察赋能。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="1020" width="390" height="90" as="geometry" />
+        <mxCell id="vCcsDu77PnLvso-1vrZt-9" value="&lt;div&gt;通过汇总、成交持仓、持仓结构、建仓过程、持仓均价及盈亏分析，为用户提供全方位期货持仓数据洞察，助力精准把握资金动向与交易策略。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="vCcsDu77PnLvso-1vrZt-16">
+          <mxGeometry y="480" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-11" value="&lt;div&gt;通过多维度指标预警配置与 AI 驱动的资讯预警，为用户提供实时风险监控、个性化预警管理与主动推送服务，助力及时捕捉业务异常与市场风险，实现前瞻性风险防控。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="1280" width="390" height="90" as="geometry" />
+        <mxCell id="vCcsDu77PnLvso-1vrZt-10" value="&lt;div&gt;通过整合数据库、图表库、数据分析、表单管理与价格中心等能力，为用户提供一站式数据采集、管理、分析与可视化服务，实现行业数据的高效沉淀与业务洞察赋能。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="vCcsDu77PnLvso-1vrZt-16">
+          <mxGeometry y="870" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-12" value="&lt;div&gt;通过人工与多套预测模型联动、因子分析驱动、数据全景呈现及全流程模型管理，为钢铁行业用户提供精准价格预测、因子影响洞察与模型效果评估，助力前瞻性经营决策与风险把控。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="1420" width="390" height="90" as="geometry" />
+        <mxCell id="vCcsDu77PnLvso-1vrZt-11" value="&lt;div&gt;通过多维度指标预警配置与 AI 驱动的资讯预警，为用户提供实时风险监控、个性化预警管理与主动推送服务，助力及时捕捉业务异常与市场风险，实现前瞻性风险防控。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="vCcsDu77PnLvso-1vrZt-16">
+          <mxGeometry y="1130" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-13" value="&lt;div&gt;通过模板化管理、组件化配置与全生命周期研报管理，高效支撑用户快速生成、复用与管理结构化行业研报，实现专业内容生产的标准化与高效化。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="1570" width="390" height="90" as="geometry" />
+        <mxCell id="vCcsDu77PnLvso-1vrZt-12" value="&lt;div&gt;通过人工与多套预测模型联动、因子分析驱动、数据全景呈现及全流程模型管理，为钢铁行业用户提供精准价格预测、因子影响洞察与模型效果评估，助力前瞻性经营决策与风险把控。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="vCcsDu77PnLvso-1vrZt-16">
+          <mxGeometry y="1270" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-14" value="&lt;div&gt;通过目录化看板管理与组件化数据可视化配置，为行业用户提供一站式、可定制的实时数据监控、业务洞察与前瞻决策支持，实现数据驱动的高效经营管理。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="1710" width="390" height="90" as="geometry" />
+        <mxCell id="vCcsDu77PnLvso-1vrZt-13" value="&lt;div&gt;通过模板化管理、组件化配置与全生命周期研报管理，高效支撑用户快速生成、复用与管理结构化行业研报，实现专业内容生产的标准化与高效化。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="vCcsDu77PnLvso-1vrZt-16">
+          <mxGeometry y="1420" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-15" value="&lt;div&gt;通过煤市总览、价格监测、智慧寻源与需求分析四大核心功能，为煤炭行业用户提供全维度市场洞察、价格监控、资源匹配与需求研判，助力高效决策与资源优化配置。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="1870" width="390" height="90" as="geometry" />
+        <mxCell id="vCcsDu77PnLvso-1vrZt-14" value="&lt;div&gt;通过目录化看板管理与组件化数据可视化配置，为行业用户提供一站式、可定制的实时数据监控、业务洞察与前瞻决策支持，实现数据驱动的高效经营管理。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="vCcsDu77PnLvso-1vrZt-16">
+          <mxGeometry y="1560" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vCcsDu77PnLvso-1vrZt-15" value="&lt;div&gt;通过煤市总览、价格监测、智慧寻源与需求分析四大核心功能，为煤炭行业用户提供全维度市场洞察、价格监控、资源匹配与需求研判，助力高效决策与资源优化配置。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="vCcsDu77PnLvso-1vrZt-16">
+          <mxGeometry y="1720" width="390" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
