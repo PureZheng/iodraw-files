@@ -19,7 +19,7 @@
         <mxCell id="77e6c97f196da883-4" value="基本面" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-14" value="资讯报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-4">
+        <mxCell id="mQTubBpK7cGlC2BneSFW-14" value="品种研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="20" y="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="技术面" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
