@@ -19,6 +19,9 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-12" target="n-Gk2TdOnnIc2vQhpWHZ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-12" target="n-Gk2TdOnnIc2vQhpWHZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-12" value="&lt;div style=&quot;&quot;&gt;分析产业链情绪&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：产业链全景图&lt;/li&gt;&lt;li&gt;二级模块：产业链传导图、关联指标、关联图表、关联资讯报告、产业链配置&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="300" width="231.81" height="100" as="geometry" />
         </mxCell>
@@ -35,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-19" value="&lt;div style=&quot;&quot;&gt;调用历史数据&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：数据中心&lt;/li&gt;&lt;li&gt;二级模块：数据库、公司数据库、表单配置、数据填报、图表中心、思维导图库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="141.65" y="770" width="231.81" height="110" as="geometry" />
+          <mxGeometry x="141.65" y="720" width="231.81" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-20" target="n-Gk2TdOnnIc2vQhpWHZ-21">
           <mxGeometry relative="1" as="geometry" />
