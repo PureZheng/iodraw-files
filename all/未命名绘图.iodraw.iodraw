@@ -15,10 +15,11 @@
             <mxRectangle x="50" y="100" width="40" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="mQTubBpK7cGlC2BneSFW-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-575.000000000003" y="135" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-25" target="mQTubBpK7cGlC2BneSFW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-25" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="110" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-28" value="资讯报告" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="250" width="200" height="200" as="geometry" />
