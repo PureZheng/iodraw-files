@@ -269,6 +269,9 @@
         <mxCell id="vCcsDu77PnLvso-1vrZt-1" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;业务价值：通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
           <mxGeometry x="-950" y="150" width="410" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="vCcsDu77PnLvso-1vrZt-4" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
