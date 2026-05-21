@@ -266,7 +266,7 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-115" value="洞察总结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-500" y="1530" width="80" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-1" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;业务价值：通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vCcsDu77PnLvso-1vrZt-1" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;font color=&quot;#ff0000&quot;&gt;业务价值：通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1060" y="160" width="560" height="80" as="geometry" />
         </mxCell>
       </root>
