@@ -4,19 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="77e6c97f196da883-1" value="EBC产品业务场景使用流程图（螺纹钢行业洞察）" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-470" y="40" width="1320" height="750" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-320" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-25" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-650" y="110" width="75" height="50" as="geometry" />
+          <mxGeometry x="-910" y="90" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="470" width="60" height="60" as="geometry" />
+          <mxGeometry x="-980" y="450" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
