@@ -42,7 +42,7 @@
           <mxGeometry x="-1030" y="250" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-53" value="产业链全景图" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="140" width="330" height="200" as="geometry" />
+          <mxGeometry x="-370" y="140" width="330" height="370" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-54" value="产业链传导图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
           <mxGeometry x="130" y="100" width="120" height="30" as="geometry" />
@@ -50,8 +50,11 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-55" value="&lt;div&gt;业务价值：通过可视化呈现品种实体及其上下游关系，并整合关联数据、图表、资讯与报告，为用户提供一站式产业链洞察，助力高效把握行业格局与业务联动逻辑。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
           <mxGeometry x="15" y="30" width="305" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-56" value="报告中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
+        <mxCell id="mQTubBpK7cGlC2BneSFW-56" value="关联指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
           <mxGeometry x="130" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-57" value="关联指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="300" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
