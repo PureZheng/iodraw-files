@@ -1,91 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2568" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mQTubBpK7cGlC2BneSFW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-25" target="mQTubBpK7cGlC2BneSFW-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-25" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-602.5" y="20" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-39" value="资讯报告" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="140" width="330" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-41" value="资讯中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-39">
-          <mxGeometry x="130" y="100" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-43" value="&lt;span style=&quot;background-color: initial;&quot;&gt;业务价值：通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-39">
-          <mxGeometry x="15" y="30" width="305" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-44" value="报告中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-39">
-          <mxGeometry x="130" y="150" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-47" target="mQTubBpK7cGlC2BneSFW-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-51" value="实时同步最新资讯" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQTubBpK7cGlC2BneSFW-48">
-          <mxGeometry x="0.4402" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-47" target="mQTubBpK7cGlC2BneSFW-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-52" value="实时同步最新报告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQTubBpK7cGlC2BneSFW-49">
-          <mxGeometry x="0.3686" y="1" relative="1" as="geometry">
-            <mxPoint x="15" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-47" value="Mysteel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-1030" y="250" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-53" value="产业链全景图" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="140" width="330" height="370" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-54" value="产业链传导图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
-          <mxGeometry x="130" y="100" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-55" value="&lt;div&gt;业务价值：通过可视化呈现品种实体及其上下游关系，并整合关联数据、图表、资讯与报告，为用户提供一站式产业链洞察，助力高效把握行业格局与业务联动逻辑。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
-          <mxGeometry x="15" y="30" width="305" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-56" value="关联指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
-          <mxGeometry x="130" y="150" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-57" value="关联图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
-          <mxGeometry x="130" y="200" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-58" value="关联资讯报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
-          <mxGeometry x="130" y="250" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-59" value="产业链配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
-          <mxGeometry x="130" y="300" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-62" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="400" width="480" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-63" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-62">
-          <mxGeometry y="20" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-64" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-62">
-          <mxGeometry y="140" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-65" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-62">
-          <mxGeometry y="260" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-66" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="580" width="480" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-67" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-66">
-          <mxGeometry x="20" width="460" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-68" value="Lane 2" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-66">
-          <mxGeometry x="20" y="120" width="460" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-69" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-66">
-          <mxGeometry x="20" y="240" width="460" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
