@@ -267,7 +267,7 @@
           <mxGeometry x="-500" y="1530" width="80" height="610" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-5" value="&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 16px;&quot;&gt;通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="160" width="390" height="90" as="geometry" />
+          <mxGeometry x="-910" y="150" width="390" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
