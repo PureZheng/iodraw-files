@@ -10,7 +10,7 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-4" target="n-Gk2TdOnnIc2vQhpWHZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-4" value="获取宏观信息&lt;div&gt;（资讯中心/报告中心）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-4" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取宏观信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;（一级模块：资讯报告&lt;/div&gt;&lt;div&gt;二级模块：资讯中心、报告中心）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="178.19000000000005" y="162.5" width="158.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-8" target="n-Gk2TdOnnIc2vQhpWHZ-10">
