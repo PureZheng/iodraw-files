@@ -254,7 +254,7 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-111" value="宏观面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="130" width="80" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-112" value="宏观面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-112" value="情绪面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="270" width="80" height="140" as="geometry" />
         </mxCell>
       </root>
