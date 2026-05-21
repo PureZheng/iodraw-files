@@ -91,9 +91,6 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-38" target="n-Gk2TdOnnIc2vQhpWHZ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-38" target="n-Gk2TdOnnIc2vQhpWHZ-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-38" value="&lt;div style=&quot;&quot;&gt;配置产业链基础&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：配置中心&lt;/li&gt;&lt;li&gt;二级模块：产业链配置&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="311.25" width="231.81" height="77.5" as="geometry" />
         </mxCell>
@@ -102,6 +99,9 @@
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-41" value="&lt;div style=&quot;&quot;&gt;配置品种研究报告&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：配置中心&lt;/li&gt;&lt;li&gt;二级模块：品种研究配置&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="460" width="231.81" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-44" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="950" y="650" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
