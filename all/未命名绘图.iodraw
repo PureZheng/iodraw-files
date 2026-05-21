@@ -148,7 +148,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-66" value="&lt;div style=&quot;&quot;&gt;配置品种预测模型&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：模型中心&lt;/li&gt;&lt;li&gt;二级模块：个人策略库、预测模型填报、模型监测中心&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1420" width="231.81" height="102.5" as="geometry" />
+          <mxGeometry x="540" y="1418.5" width="231.81" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-68" value="&lt;div style=&quot;&quot;&gt;查看驾驶舱&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：管理驾驶舱&lt;/li&gt;&lt;li&gt;二级模块：企业看板、个人看板、驾驶舱配置&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="151.65" y="1730" width="231.81" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
