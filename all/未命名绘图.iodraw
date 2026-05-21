@@ -218,8 +218,11 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-72" value="&lt;div style=&quot;&quot;&gt;配置智能研报母版/模板&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智能研报&lt;/li&gt;&lt;li&gt;二级模块：模板管理、母版管理&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="1570" width="231.81" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-81" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-81" value="业务视角" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-30" width="530" height="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-83" value="业务视角" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-20" width="530" height="2060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
