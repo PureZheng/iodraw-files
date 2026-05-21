@@ -10,12 +10,6 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-25" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-587" y="30" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-33" target="mQTubBpK7cGlC2BneSFW-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-587" y="390" width="122.5" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-39" value="资讯报告" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-740" y="140" width="380" height="200" as="geometry" />
         </mxCell>
@@ -28,8 +22,11 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-44" value="报告中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-39">
           <mxGeometry x="130" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-47" value="Mysteel资讯库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="210" width="110" height="70" as="geometry" />
+        <mxCell id="mQTubBpK7cGlC2BneSFW-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-47" target="mQTubBpK7cGlC2BneSFW-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-47" value="Mysteel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="220" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
