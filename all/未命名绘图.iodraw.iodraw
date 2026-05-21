@@ -53,8 +53,11 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-56" value="关联指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
           <mxGeometry x="130" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-57" value="关联指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="300" width="120" height="30" as="geometry" />
+        <mxCell id="mQTubBpK7cGlC2BneSFW-57" value="关联指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
+          <mxGeometry x="130" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-58" value="关联指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
+          <mxGeometry x="130" y="250" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
