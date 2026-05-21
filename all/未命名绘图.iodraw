@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-81" value="业务视角" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-30" width="530" height="2060" as="geometry" />
+          <mxGeometry x="-190" y="-30" width="680" height="2060" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-2" target="n-Gk2TdOnnIc2vQhpWHZ-4">
           <mxGeometry relative="1" as="geometry" />
