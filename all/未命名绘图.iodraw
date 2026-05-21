@@ -260,8 +260,11 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-113" value="基本面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="410" width="80" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-114" value="基本面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-114" value="技术面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="740" width="80" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-115" value="技术面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="1530" width="80" height="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
