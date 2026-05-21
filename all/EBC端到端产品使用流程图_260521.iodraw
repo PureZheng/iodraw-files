@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="5876" dy="3478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3488" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,7 +267,7 @@
           <mxGeometry x="-500" y="1530" width="80" height="610" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-1" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;业务价值：通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="870" width="560" height="80" as="geometry" />
+          <mxGeometry x="-1060" y="160" width="560" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
