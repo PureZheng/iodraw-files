@@ -64,6 +64,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-79" value="指标/图表库使用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n-Gk2TdOnnIc2vQhpWHZ-78">
+          <mxGeometry x="-0.7369" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-19" value="&lt;div style=&quot;&quot;&gt;调用历史数据进行数据分析&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：数据中心&lt;/li&gt;&lt;li&gt;二级模块：数据库、图表库、数据分析、价格中心、思维导图库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="1005" width="231.81" height="110" as="geometry" />
         </mxCell>
