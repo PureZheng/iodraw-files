@@ -59,7 +59,7 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-58" value="关联资讯报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
           <mxGeometry x="130" y="250" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-59" value="关联指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
+        <mxCell id="mQTubBpK7cGlC2BneSFW-59" value="产业链配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
           <mxGeometry x="130" y="300" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
