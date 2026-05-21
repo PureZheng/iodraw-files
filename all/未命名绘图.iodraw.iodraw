@@ -28,6 +28,11 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-47" target="mQTubBpK7cGlC2BneSFW-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-50" value="实时展示最新资讯/报告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQTubBpK7cGlC2BneSFW-49">
+          <mxGeometry x="-0.2121" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-47" value="Mysteel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="-970" y="225" width="80" height="60" as="geometry" />
         </mxCell>
