@@ -43,8 +43,11 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-20" value="智能研报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="20" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-21" value="预警中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+        <mxCell id="mQTubBpK7cGlC2BneSFW-21" value="管理驾驶舱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="20" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-22" value="预警中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="20" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-1" value="宏观面" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="-90" y="60" width="160" height="730" as="geometry" />
