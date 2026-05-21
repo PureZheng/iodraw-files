@@ -25,6 +25,9 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-1" value="宏观面" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="-90" y="60" width="160" height="730" as="geometry" />
         </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
