@@ -52,11 +52,11 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-1" value="宏观面" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="-90" y="60" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-1">
-          <mxGeometry x="10" y="170" width="150" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-12" value="资讯报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-1">
           <mxGeometry x="20" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-1">
+          <mxGeometry x="20" y="165" width="120" height="235" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
