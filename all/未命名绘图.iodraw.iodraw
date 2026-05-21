@@ -4,11 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mQTubBpK7cGlC2BneSFW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-25" target="mQTubBpK7cGlC2BneSFW-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-25" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-910" y="90" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-980" y="450" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-39" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="100" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
