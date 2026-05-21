@@ -13,47 +13,47 @@
         <mxCell id="77e6c97f196da883-3" value="情绪面" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="160" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-13" value="产业链全景图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="20" y="60" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="77e6c97f196da883-4" value="基本面" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="20" width="160" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-14" value="品种研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-4">
-          <mxGeometry x="20" y="60" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-16" value="期货龙虎榜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-4">
-          <mxGeometry x="20" y="280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="技术面" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="480" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-17" value="数据中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-5">
-          <mxGeometry x="20" y="60" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-18" value="预警中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-5">
-          <mxGeometry x="20" y="280" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-19" value="模型中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-5">
-          <mxGeometry x="20" y="490" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="77e6c97f196da883-6" value="洞察总结" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="640" y="20" width="160" height="730" as="geometry" />
         </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-13" value="产业链全景图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="-460" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-14" value="品种研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="-300" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-16" value="期货龙虎榜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="-300" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-17" value="数据中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="-140" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-18" value="预警中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="-140" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-19" value="模型中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="-140" y="610" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-20" value="智能研报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
-          <mxGeometry x="20" y="60" width="120" height="30" as="geometry" />
+          <mxGeometry x="20" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-21" value="管理驾驶舱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
-          <mxGeometry x="20" y="280" width="120" height="30" as="geometry" />
+          <mxGeometry x="20" y="400" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-22" value="预警中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
-          <mxGeometry x="20" y="490" width="120" height="30" as="geometry" />
+        <mxCell id="mQTubBpK7cGlC2BneSFW-22" value="智慧大屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="20" y="610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-12" value="资讯报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="-620" y="180" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-1" value="宏观面" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="-90" y="60" width="160" height="730" as="geometry" />
-        </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-12" value="资讯报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-1">
-          <mxGeometry x="20" y="60" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
