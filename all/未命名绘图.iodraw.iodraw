@@ -44,10 +44,10 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-53" value="产业链全景图" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="140" width="330" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-54" value="资讯中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
+        <mxCell id="mQTubBpK7cGlC2BneSFW-54" value="产业链传导图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
           <mxGeometry x="130" y="100" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-55" value="&lt;span style=&quot;background-color: initial;&quot;&gt;业务价值：通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
+        <mxCell id="mQTubBpK7cGlC2BneSFW-55" value="&lt;div&gt;业务价值：通过可视化呈现品种实体及其上下游关系，并整合关联数据、图表、资讯与报告，为用户提供一站式产业链洞察，助力高效把握行业格局与业务联动逻辑。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
           <mxGeometry x="15" y="30" width="305" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-56" value="报告中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-53">
