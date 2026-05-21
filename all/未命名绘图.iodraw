@@ -106,6 +106,9 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-44" value="Mysteel期货数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="880" y="622.6999999999999" width="139.1" height="104.61" as="geometry" />
         </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-46" value="Mysteel期货数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="880" y="772.6999999999999" width="139.1" height="104.61" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
