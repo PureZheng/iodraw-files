@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="4916" dy="3478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2372" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="-420" y="-30" width="910" height="2170" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-98" value="" style="group" vertex="1" connectable="0" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
-          <mxGeometry x="440" y="30" width="380" height="2065" as="geometry" />
+          <mxGeometry x="430" y="57.5" width="380" height="2065" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-2" target="n-Gk2TdOnnIc2vQhpWHZ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -175,11 +175,6 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-61" value="&lt;div style=&quot;&quot;&gt;配置指标预警规则&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：预警中心&lt;/li&gt;&lt;li&gt;二级模块：指标预警&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-83">
           <mxGeometry x="149.10000000000002" y="1195" width="231.81" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-83" source="n-Gk2TdOnnIc2vQhpWHZ-62">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-130" y="1369.571428571429" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-62" value="&lt;div style=&quot;&quot;&gt;配置资讯预警规则&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：配置中心&lt;/li&gt;&lt;li&gt;二级模块：资讯预警配置&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-83">
           <mxGeometry x="149.10000000000002" y="1330" width="231.81" height="80" as="geometry" />
         </mxCell>
@@ -204,14 +199,6 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-57" target="n-Gk2TdOnnIc2vQhpWHZ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-61" target="n-Gk2TdOnnIc2vQhpWHZ-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="530" y="1205" />
-              <mxPoint x="530" y="1340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-66" target="n-Gk2TdOnnIc2vQhpWHZ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -223,6 +210,11 @@
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-69" target="n-Gk2TdOnnIc2vQhpWHZ-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-62" target="n-Gk2TdOnnIc2vQhpWHZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1339.571428571429" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
