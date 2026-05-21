@@ -13,7 +13,7 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-33" target="mQTubBpK7cGlC2BneSFW-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-33" value="Mysteel在线资讯库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mQTubBpK7cGlC2BneSFW-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-940" y="225" width="122.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-39" value="资讯报告" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,8 +28,8 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-44" value="报告中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-39">
           <mxGeometry x="130" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-47" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="310" width="88" height="60" as="geometry" />
+        <mxCell id="mQTubBpK7cGlC2BneSFW-47" value="Mysteel在线资讯库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="310" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
