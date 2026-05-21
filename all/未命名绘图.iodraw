@@ -46,11 +46,17 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-20" value="&lt;div style=&quot;&quot;&gt;接受实时预警&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：预警中心&lt;/li&gt;&lt;li&gt;二级模块：指标预警、资讯预警&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="920" width="231.81" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-21" target="n-Gk2TdOnnIc2vQhpWHZ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-21" value="&lt;div style=&quot;&quot;&gt;应用未来预测&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：模型中心&lt;/li&gt;&lt;li&gt;二级模块：品种预测模型、公共策略、个人策略库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="1040" width="231.81" height="100" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-22" value="&lt;div style=&quot;&quot;&gt;产出智能研报&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智能研报&lt;/li&gt;&lt;li&gt;二级模块：我的研报、模板管理、母版管理、上传报告、报告回收站&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="1190" width="231.81" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-23" target="n-Gk2TdOnnIc2vQhpWHZ-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-23" value="&lt;div style=&quot;&quot;&gt;查看驾驶舱&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：管理驾驶舱&lt;/li&gt;&lt;li&gt;二级模块：企业看板、个人看板、驾驶舱配置&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="1340" width="231.81" height="100" as="geometry" />
