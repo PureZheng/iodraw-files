@@ -10,67 +10,64 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-81" value="业务视角" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;swimlaneFillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="-420" y="-30" width="910" height="2170" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-98" value="" style="group" vertex="1" connectable="0" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
-          <mxGeometry x="430" y="60" width="380" height="2065" as="geometry" />
-        </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-2" target="n-Gk2TdOnnIc2vQhpWHZ-4">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-2" target="n-Gk2TdOnnIc2vQhpWHZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-4" target="n-Gk2TdOnnIc2vQhpWHZ-12">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-4" target="n-Gk2TdOnnIc2vQhpWHZ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取宏观信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：资讯报告&lt;/li&gt;&lt;li&gt;二级模块：资讯中心、报告中心&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="91.65" y="132.5" width="231.81" height="77.5" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取宏观信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：资讯报告&lt;/li&gt;&lt;li&gt;二级模块：资讯中心、报告中心&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="521.65" y="192.5" width="231.81" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="166.30999999999995" width="82.5" height="55" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="596.31" y="60" width="82.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-12" target="n-Gk2TdOnnIc2vQhpWHZ-14">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-12" target="n-Gk2TdOnnIc2vQhpWHZ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-12" value="&lt;div style=&quot;&quot;&gt;分析产业链情绪&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：产业链全景图&lt;/li&gt;&lt;li&gt;二级模块：产业链传导图、关联指标、关联图表、关联资讯报告&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="91.65" y="270" width="231.81" height="100" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-12" value="&lt;div style=&quot;&quot;&gt;分析产业链情绪&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：产业链全景图&lt;/li&gt;&lt;li&gt;二级模块：产业链传导图、关联指标、关联图表、关联资讯报告&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="521.65" y="330" width="231.81" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-14" target="n-Gk2TdOnnIc2vQhpWHZ-15">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-14" target="n-Gk2TdOnnIc2vQhpWHZ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-14" value="&lt;div style=&quot;&quot;&gt;分析现货基本面&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：品种研究&lt;/li&gt;&lt;li&gt;二级模块：现货价格、供应需求、库存、进出口、成本利润&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="91.65" y="430" width="231.81" height="100" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-14" value="&lt;div style=&quot;&quot;&gt;分析现货基本面&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：品种研究&lt;/li&gt;&lt;li&gt;二级模块：现货价格、供应需求、库存、进出口、成本利润&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="521.65" y="490" width="231.81" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-15" target="n-Gk2TdOnnIc2vQhpWHZ-19">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-15" target="n-Gk2TdOnnIc2vQhpWHZ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-15" value="&lt;div style=&quot;&quot;&gt;分析期货基本面&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：期货龙虎榜&lt;/li&gt;&lt;li&gt;二级模块：汇总、成交持仓、持仓结构、建仓过程、持仓均价、盈亏分析&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="91.65" y="590" width="231.81" height="110" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-15" value="&lt;div style=&quot;&quot;&gt;分析期货基本面&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：期货龙虎榜&lt;/li&gt;&lt;li&gt;二级模块：汇总、成交持仓、持仓结构、建仓过程、持仓均价、盈亏分析&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="521.65" y="650" width="231.81" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-19" target="n-Gk2TdOnnIc2vQhpWHZ-20">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-19" target="n-Gk2TdOnnIc2vQhpWHZ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-19" target="n-Gk2TdOnnIc2vQhpWHZ-22">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-19" target="n-Gk2TdOnnIc2vQhpWHZ-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="208" y="1140" />
-              <mxPoint x="380" y="1140" />
-              <mxPoint x="380" y="1590" />
+              <mxPoint x="638" y="1200" />
+              <mxPoint x="810" y="1200" />
+              <mxPoint x="810" y="1650" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-19" target="n-Gk2TdOnnIc2vQhpWHZ-23">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-19" target="n-Gk2TdOnnIc2vQhpWHZ-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="208" y="1140" />
-              <mxPoint x="380" y="1140" />
-              <mxPoint x="380" y="1740" />
+              <mxPoint x="638" y="1200" />
+              <mxPoint x="810" y="1200" />
+              <mxPoint x="810" y="1800" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-19" target="n-Gk2TdOnnIc2vQhpWHZ-24">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-19" target="n-Gk2TdOnnIc2vQhpWHZ-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="208" y="1140" />
-              <mxPoint x="380" y="1140" />
-              <mxPoint x="380" y="1820" />
-              <mxPoint x="208" y="1820" />
+              <mxPoint x="638" y="1200" />
+              <mxPoint x="810" y="1200" />
+              <mxPoint x="810" y="1880" />
+              <mxPoint x="638" y="1880" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,52 +76,52 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-19" value="&lt;div style=&quot;&quot;&gt;调用历史数据进行数据分析&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：数据中心&lt;/li&gt;&lt;li&gt;二级模块：数据库、图表库、数据分析、价格中心、思维导图库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="91.65" y="975" width="231.81" height="110" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-19" value="&lt;div style=&quot;&quot;&gt;调用历史数据进行数据分析&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：数据中心&lt;/li&gt;&lt;li&gt;二级模块：数据库、图表库、数据分析、价格中心、思维导图库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="521.65" y="1035" width="231.81" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-20" target="n-Gk2TdOnnIc2vQhpWHZ-21">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-20" target="n-Gk2TdOnnIc2vQhpWHZ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-20" value="&lt;div style=&quot;&quot;&gt;接受实时预警&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：预警中心&lt;/li&gt;&lt;li&gt;二级模块：指标预警、资讯预警&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="91.65" y="1270" width="231.81" height="80" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-20" value="&lt;div style=&quot;&quot;&gt;接受实时预警&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：预警中心&lt;/li&gt;&lt;li&gt;二级模块：指标预警、资讯预警&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="521.65" y="1330" width="231.81" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-21" target="n-Gk2TdOnnIc2vQhpWHZ-22">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-21" target="n-Gk2TdOnnIc2vQhpWHZ-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="208" y="1520" />
-              <mxPoint x="50" y="1520" />
-              <mxPoint x="50" y="1590" />
+              <mxPoint x="638" y="1580" />
+              <mxPoint x="480" y="1580" />
+              <mxPoint x="480" y="1650" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-21" target="n-Gk2TdOnnIc2vQhpWHZ-23">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-21" target="n-Gk2TdOnnIc2vQhpWHZ-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="208" y="1520" />
-              <mxPoint x="50" y="1520" />
-              <mxPoint x="50" y="1740" />
+              <mxPoint x="638" y="1580" />
+              <mxPoint x="480" y="1580" />
+              <mxPoint x="480" y="1800" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-21" target="n-Gk2TdOnnIc2vQhpWHZ-24">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-21" target="n-Gk2TdOnnIc2vQhpWHZ-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="208" y="1520" />
-              <mxPoint x="50" y="1520" />
-              <mxPoint x="50" y="1890" />
+              <mxPoint x="638" y="1580" />
+              <mxPoint x="480" y="1580" />
+              <mxPoint x="480" y="1950" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-21" value="&lt;div style=&quot;&quot;&gt;查看未来预测&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：模型中心&lt;/li&gt;&lt;li&gt;二级模块：品种预测模型、公共策略库、个人策略库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="91.65" y="1390" width="231.81" height="100" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-21" value="&lt;div style=&quot;&quot;&gt;查看未来预测&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：模型中心&lt;/li&gt;&lt;li&gt;二级模块：品种预测模型、公共策略库、个人策略库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="521.65" y="1450" width="231.81" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-22" target="n-Gk2TdOnnIc2vQhpWHZ-4">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-22" target="n-Gk2TdOnnIc2vQhpWHZ-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="171" as="targetPoint" />
+            <mxPoint x="520" y="231" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="208" y="1660" />
-              <mxPoint y="1660" />
-              <mxPoint y="171" />
+              <mxPoint x="638" y="1720" />
+              <mxPoint x="430" y="1720" />
+              <mxPoint x="430" y="231" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -133,20 +130,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-22" value="&lt;div style=&quot;&quot;&gt;产出智能研报&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智能研报&lt;/li&gt;&lt;li&gt;二级模块：我的研报、模板管理、母版管理、上传报告、报告回收站&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="91.65" y="1540" width="231.81" height="100" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-22" value="&lt;div style=&quot;&quot;&gt;产出智能研报&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智能研报&lt;/li&gt;&lt;li&gt;二级模块：我的研报、模板管理、母版管理、上传报告、报告回收站&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="521.65" y="1600" width="231.81" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-23" value="&lt;div style=&quot;&quot;&gt;查看驾驶舱&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：管理驾驶舱&lt;/li&gt;&lt;li&gt;二级模块：企业看板、个人看板、驾驶舱配置&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="91.65" y="1690" width="231.81" height="100" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-23" value="&lt;div style=&quot;&quot;&gt;查看驾驶舱&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：管理驾驶舱&lt;/li&gt;&lt;li&gt;二级模块：企业看板、个人看板、驾驶舱配置&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="521.65" y="1750" width="231.81" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98" source="n-Gk2TdOnnIc2vQhpWHZ-24" target="n-Gk2TdOnnIc2vQhpWHZ-94">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-24" target="n-Gk2TdOnnIc2vQhpWHZ-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-24" value="&lt;div style=&quot;&quot;&gt;查看智慧大屏&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智慧大屏&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="91.65" y="1840" width="231.81" height="100" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-24" value="&lt;div style=&quot;&quot;&gt;查看智慧大屏&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智慧大屏&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="521.65" y="1900" width="231.81" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-94" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-98">
-          <mxGeometry x="166.30999999999995" y="2010" width="82.5" height="55" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-94" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="596.31" y="2070" width="82.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-83" value="配置视角" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;swimlaneFillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="490" y="-30" width="530" height="2170" as="geometry" />
@@ -171,6 +168,11 @@
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-57" value="&lt;div style=&quot;&quot;&gt;填报公司指标数据&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：数据中心&lt;/li&gt;&lt;li&gt;二级模块：表单填报&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-83">
           <mxGeometry x="149.10000000000002" y="1040" width="231.81" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-83" source="n-Gk2TdOnnIc2vQhpWHZ-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="1350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-61" value="&lt;div style=&quot;&quot;&gt;配置指标预警规则&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：预警中心&lt;/li&gt;&lt;li&gt;二级模块：指标预警&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-83">
           <mxGeometry x="149.10000000000002" y="1195" width="231.81" height="80" as="geometry" />
