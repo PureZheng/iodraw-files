@@ -278,6 +278,9 @@
         <mxCell id="vCcsDu77PnLvso-1vrZt-9" value="&lt;div&gt;通过汇总、成交持仓、持仓结构、建仓过程、持仓均价及盈亏分析，为用户提供全方位期货持仓数据洞察，助力精准把握资金动向与交易策略。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-910" y="630" width="390" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="vCcsDu77PnLvso-1vrZt-10" value="&lt;div&gt;通过汇总、成交持仓、持仓结构、建仓过程、持仓均价及盈亏分析，为用户提供全方位期货持仓数据洞察，助力精准把握资金动向与交易策略。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="1020" width="390" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
