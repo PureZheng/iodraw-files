@@ -13,11 +13,17 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-4" value="获取宏观信息&lt;div&gt;（资讯中心/报告中心）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="178.19000000000005" y="162.5" width="158.75" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-8" target="n-Gk2TdOnnIc2vQhpWHZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-8" value="分析产业链情绪&lt;div&gt;（产业链传导图、关联指标、关联图表、关联资讯报告）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="265" width="315.13" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="216.30999999999995" y="30" width="82.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-10" value="分析现货基本面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="197.565" y="405" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
