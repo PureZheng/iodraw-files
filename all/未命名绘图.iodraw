@@ -7,6 +7,9 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-2" target="n-Gk2TdOnnIc2vQhpWHZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-4" target="n-Gk2TdOnnIc2vQhpWHZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;获取宏观信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：资讯报告&lt;/li&gt;&lt;li&gt;二级模块：资讯中心、报告中心&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="162.5" width="231.81" height="77.5" as="geometry" />
         </mxCell>
@@ -14,7 +17,7 @@
           <mxGeometry x="216.30999999999995" y="30" width="82.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-12" value="&lt;div style=&quot;&quot;&gt;分析产业链情绪&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：产业链全景图&lt;/li&gt;&lt;li&gt;二级模块：产业链传导图&lt;/li&gt;&lt;li&gt;三级模块：关联指标、关联图表、关联资讯报告&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="141.65" y="300" width="231.81" height="77.5" as="geometry" />
+          <mxGeometry x="141.65" y="300" width="231.81" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
