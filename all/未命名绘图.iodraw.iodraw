@@ -10,7 +10,7 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-25" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-587" y="30" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mQTubBpK7cGlC2BneSFW-33" value="Mysteel在线资讯库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-902.5" y="220" width="102.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-39" value="资讯报告" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
