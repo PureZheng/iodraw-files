@@ -22,8 +22,8 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-43" value="&lt;span style=&quot;background-color: initial;&quot;&gt;业务价值：通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-39">
           <mxGeometry x="15" y="30" width="350" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-44" value="资讯中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="240" width="120" height="30" as="geometry" />
+        <mxCell id="mQTubBpK7cGlC2BneSFW-44" value="报告中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-39">
+          <mxGeometry x="130" y="150" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
