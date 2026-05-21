@@ -21,7 +21,7 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-44" value="Mysteel数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-250" y="622.6999999999998" width="139.1" height="104.61" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-81" value="业务视角" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-81" value="业务视角" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-30" width="530" height="2170" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81" source="n-Gk2TdOnnIc2vQhpWHZ-2" target="n-Gk2TdOnnIc2vQhpWHZ-4">
@@ -160,7 +160,7 @@
           <mxGeometry x="241.30999999999995" y="2070" width="82.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-83" value="配置视角" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;swimlaneFillColor=#D4E1F5;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-30" width="530" height="2190" as="geometry" />
+          <mxGeometry x="490" y="-30" width="530" height="2170" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-38" value="&lt;div style=&quot;&quot;&gt;配置产业链基础&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：配置中心&lt;/li&gt;&lt;li&gt;二级模块：产业链配置&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-83">
           <mxGeometry x="149.10000000000002" y="341.25" width="231.81" height="77.5" as="geometry" />
