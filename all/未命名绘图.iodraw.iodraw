@@ -25,8 +25,11 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-47" target="mQTubBpK7cGlC2BneSFW-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQTubBpK7cGlC2BneSFW-47" target="mQTubBpK7cGlC2BneSFW-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-47" value="Mysteel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="220" width="110" height="70" as="geometry" />
+          <mxGeometry x="-970" y="225" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
