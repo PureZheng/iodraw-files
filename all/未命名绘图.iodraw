@@ -4,20 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-1" value="业务人员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="80" width="417" height="435" as="geometry" />
-        </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="n-Gk2TdOnnIc2vQhpWHZ-1" source="n-Gk2TdOnnIc2vQhpWHZ-2" target="n-Gk2TdOnnIc2vQhpWHZ-4">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-2" target="n-Gk2TdOnnIc2vQhpWHZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-1">
-          <mxGeometry x="140" y="45" width="82.5" height="55" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-4" value="获取宏观信息&lt;div&gt;（资讯中心/报告中心）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548.19" y="392.5" width="158.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-4" value="获取宏观信息&lt;div&gt;（资讯中心/报告中心）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-1">
-          <mxGeometry x="101.88" y="177.5" width="158.75" height="60" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-8" value="分析产业链情绪&lt;div&gt;（产业链传导图、关联指标、关联图表、关联资讯报告）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="495" width="315.13" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-8" value="分析产业链情绪&lt;div&gt;（产业链传导图、关联指标、关联图表、关联资讯报告）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-1">
-          <mxGeometry x="23.689999999999998" y="280" width="315.13" height="60" as="geometry" />
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586.31" y="260" width="82.5" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
