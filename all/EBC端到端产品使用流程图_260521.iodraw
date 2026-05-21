@@ -287,8 +287,11 @@
         <mxCell id="vCcsDu77PnLvso-1vrZt-12" value="&lt;div&gt;通过人工与多套预测模型联动、因子分析驱动、数据全景呈现及全流程模型管理，为钢铁行业用户提供精准价格预测、因子影响洞察与模型效果评估，助力前瞻性经营决策与风险把控。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-910" y="1420" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-13" value="&lt;div&gt;通过人工与多套预测模型联动、因子分析驱动、数据全景呈现及全流程模型管理，为钢铁行业用户提供精准价格预测、因子影响洞察与模型效果评估，助力前瞻性经营决策与风险把控。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="vCcsDu77PnLvso-1vrZt-13" value="&lt;div&gt;通过模板化管理、组件化配置与全生命周期研报管理，高效支撑用户快速生成、复用与管理结构化行业研报，实现专业内容生产的标准化与高效化。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-910" y="1570" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vCcsDu77PnLvso-1vrZt-14" value="&lt;div&gt;通过模板化管理、组件化配置与全生命周期研报管理，高效支撑用户快速生成、复用与管理结构化行业研报，实现专业内容生产的标准化与高效化。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="1580" width="390" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
