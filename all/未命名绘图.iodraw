@@ -156,6 +156,9 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-104" value="Mysteel数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
           <mxGeometry x="160" y="1032.6999999999998" width="139.1" height="104.61" as="geometry" />
         </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-105" value="Mysteel数据库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="n-Gk2TdOnnIc2vQhpWHZ-81">
+          <mxGeometry x="160" y="652.6999999999998" width="139.1" height="104.61" as="geometry" />
+        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-83" value="配置视角" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;swimlaneFillColor=#D4E1F5;" vertex="1" parent="1">
           <mxGeometry x="490" y="-30" width="530" height="2170" as="geometry" />
         </mxCell>
