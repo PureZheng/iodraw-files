@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="3826" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3826" dy="2727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,13 +218,8 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-72" value="&lt;div style=&quot;&quot;&gt;配置智能研报母版/模板&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智能研报&lt;/li&gt;&lt;li&gt;二级模块：模板管理、母版管理&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="1570" width="231.81" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-81">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-160" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-81" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="111.25" width="200" height="200" as="geometry" />
+          <mxGeometry x="-40" y="-30" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
