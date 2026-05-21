@@ -120,7 +120,7 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-56" value="&lt;div style=&quot;&quot;&gt;配置公司指标数据表单填报模板&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：数据中心&lt;/li&gt;&lt;li&gt;二级模块：表单管理&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="530" y="750" width="231.81" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-57" value="&lt;div style=&quot;&quot;&gt;填报公司指标数据&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：数据中心&lt;/li&gt;&lt;li&gt;二级模块：表单管理&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-57" value="&lt;div style=&quot;&quot;&gt;填报公司指标数据&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：数据中心&lt;/li&gt;&lt;li&gt;二级模块：表单填报&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="530" y="880" width="231.81" height="100" as="geometry" />
         </mxCell>
       </root>
