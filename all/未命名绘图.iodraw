@@ -40,7 +40,7 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-21" value="&lt;div style=&quot;&quot;&gt;应用未来预测&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：模型中心&lt;/li&gt;&lt;li&gt;二级模块：品种预测模型、公共策略、个人策略库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="1040" width="231.81" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-22" value="&lt;div style=&quot;&quot;&gt;应用未来预测&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：模型中心&lt;/li&gt;&lt;li&gt;二级模块：品种预测模型、公共策略、个人策略库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-22" value="&lt;div style=&quot;&quot;&gt;产出智能研报&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智能研报&lt;/li&gt;&lt;li&gt;二级模块：我的研报、模板管理、母版管理、上传报告、报告回收站&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="1190" width="231.81" height="100" as="geometry" />
         </mxCell>
       </root>
