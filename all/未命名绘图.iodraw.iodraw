@@ -28,8 +28,8 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-44" value="报告中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-39">
           <mxGeometry x="130" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-47" value="Mysteel在线资讯库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="210" width="140" height="90" as="geometry" />
+        <mxCell id="mQTubBpK7cGlC2BneSFW-47" value="Mysteel资讯库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="210" width="110" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
