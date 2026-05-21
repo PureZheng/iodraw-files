@@ -11,13 +11,13 @@
           <mxGeometry x="-587" y="30" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-902.5" y="220" width="60" height="60" as="geometry" />
+          <mxGeometry x="-902.5" y="220" width="102.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-39" value="资讯报告" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-740" y="140" width="380" height="200" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-41" value="资讯中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-39">
-          <mxGeometry x="130" y="90" width="120" height="30" as="geometry" />
+          <mxGeometry x="130" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-43" value="&lt;span style=&quot;background-color: initial;&quot;&gt;业务价值：通过资讯中心按栏目浏览资讯、报告中心按自定义目录查阅报告，为用户提供结构化、个性化的行业资讯与专业报告获取渠道，高效支撑业务决策与行业洞察。&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-39">
           <mxGeometry x="15" y="30" width="350" height="60" as="geometry" />
