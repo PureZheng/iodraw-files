@@ -31,7 +31,7 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-17" value="数据中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="20" y="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQTubBpK7cGlC2BneSFW-18" value="期货龙虎榜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-5">
+        <mxCell id="mQTubBpK7cGlC2BneSFW-18" value="预警中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="20" y="280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-6" value="洞察总结" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="mQTubBpK7cGlC2BneSFW-12" value="资讯报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-1">
           <mxGeometry x="20" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-19" value="预警中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="350" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
