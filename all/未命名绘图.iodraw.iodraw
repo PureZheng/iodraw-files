@@ -55,6 +55,9 @@
         <mxCell id="mQTubBpK7cGlC2BneSFW-1" value="宏观面" style="swimlane;html=1;startSize=20;" vertex="1" parent="1">
           <mxGeometry x="-90" y="60" width="160" height="730" as="geometry" />
         </mxCell>
+        <mxCell id="mQTubBpK7cGlC2BneSFW-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="mQTubBpK7cGlC2BneSFW-1">
+          <mxGeometry x="10" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
