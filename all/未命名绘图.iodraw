@@ -37,7 +37,7 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-19" target="n-Gk2TdOnnIc2vQhpWHZ-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-19" value="&lt;div style=&quot;&quot;&gt;调用历史数据进行数据分析&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：数据中心&lt;/li&gt;&lt;li&gt;二级模块：数据库、图表中心&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-19" value="&lt;div style=&quot;&quot;&gt;调用历史数据进行数据分析&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：数据中心&lt;/li&gt;&lt;li&gt;二级模块：数据库、图表中心、思维导图库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="930" width="231.81" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-20" target="n-Gk2TdOnnIc2vQhpWHZ-21">
