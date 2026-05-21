@@ -76,6 +76,9 @@
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-21" value="&lt;div style=&quot;&quot;&gt;查看未来预测&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：模型中心&lt;/li&gt;&lt;li&gt;二级模块：品种预测模型、公共策略库、个人策略库&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="1420" width="231.81" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-22" target="n-Gk2TdOnnIc2vQhpWHZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-22" value="&lt;div style=&quot;&quot;&gt;产出智能研报&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智能研报&lt;/li&gt;&lt;li&gt;二级模块：我的研报、模板管理、母版管理、上传报告、报告回收站&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="141.65" y="1570" width="231.81" height="100" as="geometry" />
         </mxCell>
@@ -161,6 +164,9 @@
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-69" value="&lt;div style=&quot;&quot;&gt;配置智慧大屏、对接第三方BI工具&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智慧大屏&lt;/li&gt;&lt;li&gt;二级模块：数据源管理、组件管理、大屏管理&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="539.99" y="1870" width="231.81" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n-Gk2TdOnnIc2vQhpWHZ-72" target="n-Gk2TdOnnIc2vQhpWHZ-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-72" value="&lt;div style=&quot;&quot;&gt;配置智能研报母版/模板&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;一级模块：智能研报&lt;/li&gt;&lt;li&gt;二级模块：模板管理、母版管理&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="540" y="1570" width="231.81" height="100" as="geometry" />
