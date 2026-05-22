@@ -288,7 +288,7 @@
           <mxGeometry x="-1141" y="712" width="621" height="173" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-13" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;功能：&lt;span style=&quot;background-color: initial;&quot;&gt;以可视化拖拽的布局形式，在线将文本、图形、表格及指标等成熟组件进行有序组合，快速生产研究报告。数据实时更新，可视化图表丰富，图表和定制化报告自动更新。&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;解决：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;解决了撰写定期报告时耗时耗力、数据更新维护困难的痛点。传统方式中，报告制作人员需在迭代最新数据，手动复制粘贴数据和图表，效率低下且易出错。&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;价值：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;它将报告生产流程组件化、自动化。通过拖拽布局与实时数据组件，分析师能像“搭积木”一样快速组装出结构清晰、图文并茂的专业报告。数据与图表可自动更新，将报告制作从重复劳动转变为聚焦深度分析的创造性工作，极大提升了产出速度、准确性与专业性。&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="910" width="430.00000000000006" height="90" as="geometry" />
+          <mxGeometry x="-1141" y="910" width="621" height="197" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-14" value="&lt;div&gt;通过目录化看板管理与组件化数据可视化配置，为行业用户提供一站式、可定制的实时数据监控、业务洞察与前瞻决策支持，实现数据驱动的高效经营管理。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-950" y="1050" width="430.00000000000006" height="90" as="geometry" />
