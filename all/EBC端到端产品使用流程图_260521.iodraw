@@ -264,7 +264,7 @@
           <mxGeometry x="-500" y="80" width="80" height="790" as="geometry" />
         </mxCell>
         <mxCell id="n-Gk2TdOnnIc2vQhpWHZ-115" value="洞察总结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-500" y="870" width="80" height="610" as="geometry" />
+          <mxGeometry x="-500" y="886" width="80" height="594" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-5" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(255, 0, 0); font-size: 16px;&quot;&gt;功能：&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;将钢联资讯与钢联行业报告进行整合，构建资讯报告中心。实现资讯分类汇总与多维条件筛选，及报告的快速定位、查找、浏览与下载。&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;解决：&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;打破人工重复搜索信息，整合资讯的传统做法。&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;价值：&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;用户可快速获取多个品种的全面信息，极大地节省了查询与整合时间，显著提升了信息获取效率、知识资产沉淀。从宏观层面，精准把握行业发展态势。&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-1147" y="-569" width="627" height="115" as="geometry" />
@@ -293,7 +293,7 @@
         <mxCell id="vCcsDu77PnLvso-1vrZt-14" value="&lt;ul&gt;&lt;li&gt;通过目录化看板管理与组件化数据可视化配置，为行业用户提供一站式、可定制的实时数据监控、业务洞察与前瞻决策支持，实现数据驱动的高效经营管理。&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-1141" y="1085" width="621" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-15" value="&lt;div&gt;通过煤市总览、价格监测、智慧寻源与需求分析四大核心功能，为煤炭行业用户提供全维度市场洞察、价格监控、资源匹配与需求研判，助力高效决策与资源优化配置。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="vCcsDu77PnLvso-1vrZt-15" value="&lt;ul&gt;&lt;li&gt;通过煤市总览、价格监测、智慧寻源与需求分析四大核心功能，为煤炭行业用户提供全维度市场洞察、价格监控、资源匹配与需求研判，助力高效决策与资源优化配置。&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-1139" y="1210" width="619" height="90" as="geometry" />
         </mxCell>
       </root>
