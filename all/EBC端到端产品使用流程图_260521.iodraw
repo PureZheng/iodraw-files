@@ -273,7 +273,7 @@
           <mxGeometry x="-1147" y="-390" width="627" height="159" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-8" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;功能：&lt;span style=&quot;background-color: initial;&quot;&gt;整合行业研究逻辑，实现品种基本面的全维度结构化分析，结合供需、库存、进出口、价格、利润等，通过可视化直观呈现品种基本面异动监测与关键数据。&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;解决：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;有效解决市场分析人员，手动整合分析框架、整理数据耗时易出错，且不实时的核心痛点。&lt;/span&gt;&lt;/li&gt;&lt;li&gt;价值：将行业研究方法论（如供需、利润传导）模块/功能化，通过分析框架结构化与可视化，自动构建起清晰、动态的分析模型。用户得以穿透基本面各环节，直观洞察价格波动的底层逻辑，极大提升了研究的深度、效率与决策的科学性。&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="-200" width="430.00000000000006" height="90" as="geometry" />
+          <mxGeometry x="-1147" y="-274" width="627" height="175" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-9" value="&lt;div&gt;通过汇总、成交持仓、持仓结构、建仓过程、持仓均价及盈亏分析，为用户提供全方位期货持仓数据洞察，助力精准把握资金动向与交易策略。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-950" y="-30" width="430.00000000000006" height="90" as="geometry" />
