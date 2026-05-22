@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="3174" dy="2047" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4274" dy="2047" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,7 +270,7 @@
           <mxGeometry x="-950" y="-569" width="430" height="156" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-7" value="&lt;ul&gt;&lt;li&gt;功能：以清晰直观的产业链全景视图，集中展示煤焦产业链从上游、中游到下游各环节之间的链路情况，各节点的现货价格、毛利、价差等核心数据，并实时呈现。&lt;/li&gt;&lt;li&gt;解决：&lt;span style=&quot;background-color: initial;&quot;&gt;有效解决用户在繁杂数据中无法快速获取全局视图、难以快速获取关键信号的问题。&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;价值：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;通过链条化、可视化的数据全景分布图，将所有品种与核心指标实时聚合展示。用户得以直观、全面地把握产业链全貌与异动，显著提升行情监测效率，帮助其更敏捷地洞察风险、感知机会，支撑快速决策。&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-950" y="-365" width="430.00000000000006" height="90" as="geometry" />
+          <mxGeometry x="-1147" y="-380" width="627" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-8" value="&lt;div&gt;通过支持自定义配置的目录化管理，精准展示对应品种的研究报告，为用户提供结构化、个性化的行业品种深度洞察与专业分析支撑，高效满足差异化的研究信息获取需求。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-950" y="-200" width="430.00000000000006" height="90" as="geometry" />
