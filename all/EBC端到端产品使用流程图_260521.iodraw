@@ -279,9 +279,9 @@
           <mxGeometry x="-1146.5" y="-22" width="626" height="55" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-10" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;功能：&lt;span style=&quot;background-color: initial;&quot;&gt;提供高效的数据检索、编辑与加工能力，支持通过数据分析、数据变频、多维计算等功能对原始数据进行深度处理；数据中心同时具备可视化图表自动生成与跨板块共享功能，可灵活支撑系统内各类业务场景下的图表应用与数据协作需求。&lt;/span&gt;&lt;/li&gt;&lt;li&gt;解决：直接解决“数据整合-计算-分析””过程耗时且易出错的痛点。&lt;/li&gt;&lt;li&gt;价值：通过标准化、自动化的一站式处理流程，极大提升了数据加工效率与准确性，让使用者能更快、更可靠地获取洞察，从而将宝贵时间专注于更具价值的业务中，推动数据驱动决策的真正落地。&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="-1141" y="360" width="621" height="138" as="geometry" />
+          <mxGeometry x="-1141" y="337" width="621" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="vCcsDu77PnLvso-1vrZt-11" value="&lt;div&gt;通过多维度指标预警配置与 AI 驱动的资讯预警，为用户提供实时风险监控、个性化预警管理与主动推送服务，助力及时捕捉业务异常与市场风险，实现前瞻性风险防控。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="vCcsDu77PnLvso-1vrZt-11" value="&lt;div&gt;功能：&lt;span style=&quot;background-color: initial;&quot;&gt;帮助使用者在关注的数据中快速发现数据异常波动，实现数据预警/市场预警。从运行监测和行业洞察的角度，设置预警逻辑、算法，开展监测与预警。通过消息提示及邮件推送方式接收预警提示，帮助用户及时发现异常变化、智能预警的功能。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;解决：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;解决市场参与者因信息过载而无法实时、精准捕捉关键市场异动的核心痛点。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;价值：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;通过预警的设置，将用户从主动查询的劳动中解放出来，转变为接收警报的管理者。为使用者建立起敏锐的市场神经末梢。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-950" y="620" width="430.00000000000006" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vCcsDu77PnLvso-1vrZt-12" value="&lt;div&gt;通过人工与多套预测模型联动、因子分析驱动、数据全景呈现及全流程模型管理，为钢铁行业用户提供精准价格预测、因子影响洞察与模型效果评估，助力前瞻性经营决策与风险把控。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=16;fontColor=#FF0000;" parent="1" vertex="1">
