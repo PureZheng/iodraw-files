@@ -63,6 +63,9 @@
         <mxCell id="3MhwlI9cY40355egTqNK-13" value="查询供需数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3MhwlI9cY40355egTqNK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-14" target="3MhwlI9cY40355egTqNK-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-14" value="图表可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -72,8 +75,19 @@
         <mxCell id="3MhwlI9cY40355egTqNK-16" value="查询库存数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3MhwlI9cY40355egTqNK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-17" target="3MhwlI9cY40355egTqNK-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-17" value="图表可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3MhwlI9cY40355egTqNK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-19" target="3MhwlI9cY40355egTqNK-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="440" />
+              <mxPoint x="1240" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-19" value="检索行业资讯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="410" width="120" height="60" as="geometry" />
