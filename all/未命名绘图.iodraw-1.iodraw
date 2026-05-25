@@ -96,8 +96,8 @@
         <mxCell id="3MhwlI9cY40355egTqNK-35" value="查询模板库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MhwlI9cY40355egTqNK-37" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" width="120" height="60" as="geometry" />
+        <mxCell id="3MhwlI9cY40355egTqNK-37" value="生成行业资讯报告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
