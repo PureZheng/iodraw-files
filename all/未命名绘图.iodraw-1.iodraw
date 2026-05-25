@@ -21,7 +21,7 @@
         <mxCell id="3MhwlI9cY40355egTqNK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-3" target="3MhwlI9cY40355egTqNK-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3MhwlI9cY40355egTqNK-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3MhwlI9cY40355egTqNK-24">
+        <mxCell id="3MhwlI9cY40355egTqNK-28" value="供需分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3MhwlI9cY40355egTqNK-24">
           <mxGeometry x="0.696" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -29,8 +29,18 @@
         <mxCell id="3MhwlI9cY40355egTqNK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-3" target="3MhwlI9cY40355egTqNK-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3MhwlI9cY40355egTqNK-29" value="库存分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3MhwlI9cY40355egTqNK-25">
+          <mxGeometry x="0.7294" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-3" target="3MhwlI9cY40355egTqNK-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3MhwlI9cY40355egTqNK-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3MhwlI9cY40355egTqNK-26">
+          <mxGeometry x="0.8" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-3" value="意图识别&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;分析品种：磷酸铁锂&lt;/div&gt;&lt;div&gt;分析维度：价格、供需、库存、完整、其他&lt;/div&gt;&lt;div&gt;时间周期：日、月、季、年&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="105" width="280" height="110" as="geometry" />
