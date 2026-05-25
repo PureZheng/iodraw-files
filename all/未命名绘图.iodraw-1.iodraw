@@ -51,7 +51,7 @@
         <mxCell id="3MhwlI9cY40355egTqNK-8" value="查询价格数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MhwlI9cY40355egTqNK-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-10" target="3MhwlI9cY40355egTqNK-35">
+        <mxCell id="3MhwlI9cY40355egTqNK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-10" target="3MhwlI9cY40355egTqNK-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-10" value="图表可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
