@@ -16,8 +16,14 @@
         <mxCell id="3MhwlI9cY40355egTqNK-3" value="意图识别&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;分析品种：磷酸铁锂&lt;/div&gt;&lt;div&gt;分析维度：价格、供需、库存、完整、其他&lt;/div&gt;&lt;div&gt;时间周期：日、月、季、年&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="105" width="280" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="3MhwlI9cY40355egTqNK-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-8" target="3MhwlI9cY40355egTqNK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-8" value="查询价格数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3MhwlI9cY40355egTqNK-10" value="图表可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
