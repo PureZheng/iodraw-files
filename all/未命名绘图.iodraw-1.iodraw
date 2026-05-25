@@ -95,8 +95,14 @@
         <mxCell id="3MhwlI9cY40355egTqNK-22" value="完整分析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MhwlI9cY40355egTqNK-35" value="查询并引用模板库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="3MhwlI9cY40355egTqNK-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-35" target="3MhwlI9cY40355egTqNK-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3MhwlI9cY40355egTqNK-35" value="查询模板库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3MhwlI9cY40355egTqNK-44" value="模板库中是否存在报告模板" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="260" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
