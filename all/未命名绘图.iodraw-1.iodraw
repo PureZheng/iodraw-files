@@ -51,16 +51,6 @@
         <mxCell id="3MhwlI9cY40355egTqNK-8" value="查询价格数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MhwlI9cY40355egTqNK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-10" target="3MhwlI9cY40355egTqNK-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1160" y="160" />
-              <mxPoint x="1160" y="485" />
-              <mxPoint x="870" y="485" />
-              <mxPoint x="870" y="810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-10" target="3MhwlI9cY40355egTqNK-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -73,9 +63,6 @@
         <mxCell id="3MhwlI9cY40355egTqNK-13" value="查询供需数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MhwlI9cY40355egTqNK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-14" target="3MhwlI9cY40355egTqNK-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-14" value="图表可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="220" width="120" height="60" as="geometry" />
         </mxCell>
@@ -85,20 +72,17 @@
         <mxCell id="3MhwlI9cY40355egTqNK-16" value="查询库存数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MhwlI9cY40355egTqNK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-17" target="3MhwlI9cY40355egTqNK-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-17" value="图表可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-19" value="检索行业资讯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-22" value="完整分析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-35" value="查询模板库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
