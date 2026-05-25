@@ -84,13 +84,8 @@
         <mxCell id="3MhwlI9cY40355egTqNK-17" value="图表可视化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3MhwlI9cY40355egTqNK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3MhwlI9cY40355egTqNK-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-19" value="检索行业资讯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3MhwlI9cY40355egTqNK-22" value="完整分析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="780" width="120" height="60" as="geometry" />
