@@ -16,7 +16,7 @@
         <mxCell id="3MhwlI9cY40355egTqNK-3" value="意图识别&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;分析品种：磷酸铁锂&lt;/div&gt;&lt;div&gt;分析维度：价格、供需、库存、完整、其他&lt;/div&gt;&lt;div&gt;时间周期：日、月、季、年&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="105" width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="3MhwlI9cY40355egTqNK-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="3MhwlI9cY40355egTqNK-5" value="价格分析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
