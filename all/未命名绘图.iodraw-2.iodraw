@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uh4CKpCQMydltbV_1RGc-1" value="AI数据湖服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="uh4CKpCQMydltbV_1RGc-1" value="AI数据湖服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#121212;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
