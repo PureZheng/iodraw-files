@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="abf0df3167c9" name="业务能力概述图">
+    <mxGraphModel dx="1194" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="煤化工市场营销业务能力概述" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=24;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="260" y="25" width="1080" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="domain" value="市场营销域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=20;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="500" y="105" width="600" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="cap1" value="煤化工产品市场动态监测与分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="250" y="245" width="560" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="cap2" value="资源优化配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="980" y="245" width="360" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" value="市场数据分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="181" y="390" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" value="价格对标报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="426" y="390" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" value="市场分析报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="671" y="390" width="210" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" value="智能化排产方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="955" y="390" width="220" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="p5" value="智能化资源投放方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="390" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="e_domain_cap1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;" parent="1" source="domain" target="cap1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_domain_cap2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;" parent="1" source="domain" target="cap2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cap1_p1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;" parent="1" source="cap1" target="p1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cap1_p2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;" parent="1" source="cap1" target="p2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cap1_p3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;" parent="1" source="cap1" target="p3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cap2_p4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;" parent="1" source="cap2" target="p4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cap2_p5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;" parent="1" source="cap2" target="p5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
