@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="18384d73557b" name="市场数据分析流程图">
-    <mxGraphModel dx="2388" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2550" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2550" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,12 +88,10 @@
         <mxCell id="e4_yes" value="是" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;labelBackgroundColor=#FFFFFF;" parent="1" source="complete_decision" target="permission" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e4_no" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;labelBackgroundColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="complete_decision" target="supplement" edge="1">
+        <mxCell id="e4_no" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;labelBackgroundColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="complete_decision" target="supplement" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="885" y="320" />
-              <mxPoint x="950" y="320" />
-              <mxPoint x="950" y="174" />
+              <mxPoint x="870" y="174" />
             </Array>
           </mxGeometry>
         </mxCell>
