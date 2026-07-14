@@ -88,11 +88,12 @@
         <mxCell id="e4_yes" value="是" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;labelBackgroundColor=#FFFFFF;" parent="1" source="complete_decision" target="permission" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e4_no" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;labelBackgroundColor=#FFFFFF;" parent="1" source="complete_decision" target="supplement" edge="1">
+        <mxCell id="e4_no" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;labelBackgroundColor=#FFFFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="complete_decision" target="supplement" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="885" y="320" />
-              <mxPoint x="1115" y="320" />
+              <mxPoint x="950" y="320" />
+              <mxPoint x="950" y="174" />
             </Array>
           </mxGeometry>
         </mxCell>
