@@ -28,7 +28,7 @@
         <mxCell id="e_cap2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;" parent="1" source="domain" target="cap2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cap3" value="市场分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="cap3" value="市场分析报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="700" y="260" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cap3_desc" value="支持综合价格、供需、库存、开工及资讯等信息生成分析报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.0;fontFamily=Microsoft YaHei;fontSize=13;fontColor=#000000;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="e_cap3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;" parent="1" source="domain" target="cap3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cap4" value="智能化排产" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="cap4" value="智能化排产方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="990" y="260" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cap4_desc" value="支持结合需求、产能、库存、价格及效益形成排产建议" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.0;fontFamily=Microsoft YaHei;fontSize=13;fontColor=#000000;align=center;verticalAlign=middle;spacing=8;" parent="1" vertex="1">
