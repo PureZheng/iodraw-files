@@ -1,5 +1,5 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram id="573b169cbcb7" name="业务架构图">
+  <diagram id="0266a93b42be" name="业务架构图">
     <mxGraphModel dx="1194" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -8,109 +8,106 @@
           <mxGeometry x="250" y="18" width="1100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="user_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="195" y="80" width="1335" height="100" as="geometry" />
+          <mxGeometry x="195" y="80" width="1335" height="110" as="geometry" />
         </mxCell>
         <mxCell id="user_label" value="用户层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="70" y="80" width="105" height="100" as="geometry" />
+          <mxGeometry x="70" y="80" width="105" height="110" as="geometry" />
         </mxCell>
         <mxCell id="domain_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="195" y="200" width="1335" height="85" as="geometry" />
+          <mxGeometry x="195" y="210" width="1335" height="85" as="geometry" />
         </mxCell>
         <mxCell id="domain_label" value="业务域层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="70" y="200" width="105" height="85" as="geometry" />
+          <mxGeometry x="70" y="210" width="105" height="85" as="geometry" />
         </mxCell>
         <mxCell id="function_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="195" y="305" width="1335" height="145" as="geometry" />
+          <mxGeometry x="195" y="315" width="1335" height="145" as="geometry" />
         </mxCell>
         <mxCell id="function_label" value="业务功能层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="70" y="305" width="105" height="145" as="geometry" />
+          <mxGeometry x="70" y="315" width="105" height="145" as="geometry" />
         </mxCell>
         <mxCell id="support_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="195" y="470" width="1335" height="105" as="geometry" />
+          <mxGeometry x="195" y="480" width="1335" height="105" as="geometry" />
         </mxCell>
         <mxCell id="support_label" value="系统管理层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="70" y="470" width="105" height="105" as="geometry" />
+          <mxGeometry x="70" y="480" width="105" height="105" as="geometry" />
         </mxCell>
         <mxCell id="data_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="195" y="595" width="1335" height="115" as="geometry" />
+          <mxGeometry x="195" y="605" width="1335" height="115" as="geometry" />
         </mxCell>
         <mxCell id="data_label" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="70" y="595" width="105" height="115" as="geometry" />
+          <mxGeometry x="70" y="605" width="105" height="115" as="geometry" />
         </mxCell>
         <mxCell id="infra_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;" parent="1" vertex="1">
-          <mxGeometry x="195" y="730" width="1335" height="90" as="geometry" />
+          <mxGeometry x="195" y="740" width="1335" height="90" as="geometry" />
         </mxCell>
         <mxCell id="infra_label" value="基础设施层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="70" y="730" width="105" height="90" as="geometry" />
+          <mxGeometry x="70" y="740" width="105" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="role1" value="化工事业部&lt;br&gt;管理人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="230" y="105" width="190" height="48" as="geometry" />
+        <mxCell id="role1" value="各区域营销中心&lt;br&gt;（华北、华东、华南、西南、西北、新疆）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="250" y="105" width="330" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="role2" value="市场分析及&lt;br&gt;价格管理人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="475" y="105" width="190" height="48" as="geometry" />
+        <mxCell id="role2" value="化工销售市场管理部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="620" y="105" width="240" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="role3" value="销售计划及&lt;br&gt;区域销售人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="720" y="105" width="190" height="48" as="geometry" />
+        <mxCell id="role3" value="化工公司销售管理部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="900" y="105" width="240" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="role4" value="生产计划及&lt;br&gt;生产调度人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="965" y="105" width="190" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="role5" value="系统管理人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="105" width="190" height="48" as="geometry" />
+        <mxCell id="role4" value="集团化工事业部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="105" width="240" height="55" as="geometry" />
         </mxCell>
         <mxCell id="market_domain" value="煤化工市场营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=19;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="430" y="218" width="740" height="48" as="geometry" />
+          <mxGeometry x="430" y="228" width="740" height="48" as="geometry" />
         </mxCell>
         <mxCell id="func1" value="市场数据分析&lt;br&gt;（智能问数）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="210" y="340" width="205" height="68" as="geometry" />
+          <mxGeometry x="210" y="350" width="205" height="68" as="geometry" />
         </mxCell>
         <mxCell id="func2" value="价格对标报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="460" y="340" width="205" height="68" as="geometry" />
+          <mxGeometry x="460" y="350" width="205" height="68" as="geometry" />
         </mxCell>
         <mxCell id="func3" value="市场分析报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="710" y="340" width="205" height="68" as="geometry" />
+          <mxGeometry x="710" y="350" width="205" height="68" as="geometry" />
         </mxCell>
         <mxCell id="func4" value="智能化排产方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="960" y="340" width="205" height="68" as="geometry" />
+          <mxGeometry x="960" y="350" width="205" height="68" as="geometry" />
         </mxCell>
         <mxCell id="func5" value="智能化资源投放方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.5;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="340" width="205" height="68" as="geometry" />
+          <mxGeometry x="1210" y="350" width="205" height="68" as="geometry" />
         </mxCell>
         <mxCell id="independent_note" value="五项业务功能相互独立，用户根据业务需求分别进入对应功能开展业务处理。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=12;fontStyle=2;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="390" y="415" width="820" height="22" as="geometry" />
+          <mxGeometry x="390" y="425" width="820" height="22" as="geometry" />
         </mxCell>
         <mxCell id="support1" value="统一身份认证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="205" y="500" width="175" height="45" as="geometry" />
+          <mxGeometry x="205" y="510" width="175" height="45" as="geometry" />
         </mxCell>
         <mxCell id="support2" value="用户及权限管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="415" y="500" width="175" height="45" as="geometry" />
+          <mxGeometry x="415" y="510" width="175" height="45" as="geometry" />
         </mxCell>
         <mxCell id="support3" value="模板管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="625" y="500" width="175" height="45" as="geometry" />
+          <mxGeometry x="625" y="510" width="175" height="45" as="geometry" />
         </mxCell>
         <mxCell id="support4" value="任务及消息管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="835" y="500" width="175" height="45" as="geometry" />
+          <mxGeometry x="835" y="510" width="175" height="45" as="geometry" />
         </mxCell>
         <mxCell id="support5" value="报告与成果管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="500" width="175" height="45" as="geometry" />
+          <mxGeometry x="1045" y="510" width="175" height="45" as="geometry" />
         </mxCell>
         <mxCell id="support6" value="日志及系统管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1255" y="500" width="175" height="45" as="geometry" />
+          <mxGeometry x="1255" y="510" width="175" height="45" as="geometry" />
         </mxCell>
         <mxCell id="internal_data" value="&lt;b&gt;内部业务数据&lt;/b&gt;&lt;br&gt;国能e商、ERP、CRM、智慧化工、智慧销售物流平台等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="245" y="625" width="500" height="60" as="geometry" />
+          <mxGeometry x="245" y="635" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="external_data" value="&lt;b&gt;外部市场数据&lt;/b&gt;&lt;br&gt;价格、供需、库存、开工、检修、进出口及行业资讯等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="800" y="625" width="500" height="60" as="geometry" />
+          <mxGeometry x="800" y="635" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="infra1" value="国家能源集团人工智能平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="280" y="752" width="350" height="42" as="geometry" />
+          <mxGeometry x="280" y="762" width="350" height="42" as="geometry" />
         </mxCell>
         <mxCell id="infra2" value="集团数据湖及数据服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="650" y="752" width="300" height="42" as="geometry" />
+          <mxGeometry x="650" y="762" width="300" height="42" as="geometry" />
         </mxCell>
         <mxCell id="infra3" value="大模型及智能体运行环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="970" y="752" width="350" height="42" as="geometry" />
+          <mxGeometry x="970" y="762" width="350" height="42" as="geometry" />
         </mxCell>
         <mxCell id="domain_func1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;" parent="1" source="market_domain" target="func1" edge="1">
           <mxGeometry relative="1" as="geometry" />
