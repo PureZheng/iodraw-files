@@ -101,7 +101,7 @@
           <mxGeometry x="4470" y="730" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="34" value="报表识别智能体&lt;br&gt;调用表格解析工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="1325" y="925" width="190" height="76" as="geometry" />
+          <mxGeometry x="602.5" y="923" width="190" height="76" as="geometry" />
         </mxCell>
         <mxCell id="35" value="报表是否有效？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=11;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1555" y="917" width="135" height="88" as="geometry" />
