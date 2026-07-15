@@ -206,11 +206,11 @@
         <mxCell id="8362UTUGjWjnI53g-RlK-65" value="资源需求表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="310" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8362UTUGjWjnI53g-RlK-73" value="资源需求表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="840" width="120" height="50" as="geometry" />
+        <mxCell id="8362UTUGjWjnI53g-RlK-73" value="排产建议表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="820" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8362UTUGjWjnI53g-RlK-74" value="资源需求表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="3020" y="850" width="120" height="50" as="geometry" />
+          <mxGeometry x="3140" y="820" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
