@@ -86,7 +86,7 @@
           <mxGeometry x="860" y="250" width="190" height="72" as="geometry" />
         </mxCell>
         <mxCell id="26" value="在线校验、修改智能化排产方案并提交" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="3160" y="275" width="240" height="72" as="geometry" />
+          <mxGeometry x="3240" y="276.5" width="240" height="72" as="geometry" />
         </mxCell>
         <mxCell id="27" value="审核确认智能化排产方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="3450" y="432" width="220" height="72" as="geometry" />
@@ -128,10 +128,10 @@
           <mxGeometry x="2770" y="760" width="180" height="72" as="geometry" />
         </mxCell>
         <mxCell id="40" value="生成排产建议表和排产建议报告" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="3015" y="760" width="240" height="72" as="geometry" />
+          <mxGeometry x="2990" y="760" width="240" height="72" as="geometry" />
         </mxCell>
         <mxCell id="41" value="推送报告及消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="3320" y="760" width="180" height="72" as="geometry" />
+          <mxGeometry x="3270" y="760" width="180" height="72" as="geometry" />
         </mxCell>
         <mxCell id="42" value="获取生产、库存、销售订单、市场价格和财务数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="1347.5" y="1065" width="255" height="72" as="geometry" />
