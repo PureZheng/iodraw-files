@@ -1,12 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" compressed="false" version="24.7.17">
   <diagram id="839700ee9c9b" name="智能化排产方案流程图">
-    <mxGraphModel dx="1405" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4300" pageHeight="1350" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4300" pageHeight="1350" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="BXXX-YYY-ZZZ_智能化排产方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=Microsoft YaHei;fontSize=22;fontStyle=1;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="18" width="1550" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.3;" parent="1" vertex="1">
           <mxGeometry x="40" y="85" width="3890" height="1100" as="geometry" />
         </mxCell>
@@ -89,7 +86,7 @@
           <mxGeometry x="3240" y="276.5" width="240" height="72" as="geometry" />
         </mxCell>
         <mxCell id="27" value="审核确认智能化排产方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="3450" y="432" width="220" height="72" as="geometry" />
+          <mxGeometry x="3510" y="432" width="220" height="72" as="geometry" />
         </mxCell>
         <mxCell id="28" value="接收上报的智能化排产方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="3720" y="577" width="220" height="72" as="geometry" />
