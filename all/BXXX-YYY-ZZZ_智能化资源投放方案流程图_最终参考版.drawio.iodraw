@@ -226,9 +226,6 @@
         <mxCell id="rJYylDxFk9m5wT6ANFye-74" value="出库计划表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="610" width="80" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-75" value="资源需求表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="610" width="80" height="46" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
