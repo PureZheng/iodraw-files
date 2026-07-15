@@ -71,10 +71,10 @@
           <mxGeometry x="565" y="122" width="175" height="66" as="geometry" />
         </mxCell>
         <mxCell id="24" value="汇总资源需求并上传资源需求表等报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="535" y="276.5" width="235" height="72" as="geometry" />
+          <mxGeometry x="535" y="250" width="235" height="72" as="geometry" />
         </mxCell>
         <mxCell id="25" value="补充或重新上传报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="860" y="276.5" width="190" height="72" as="geometry" />
+          <mxGeometry x="860" y="250" width="190" height="72" as="geometry" />
         </mxCell>
         <mxCell id="26" value="在线校验、修改智能化排产方案并提交" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="3160" y="275" width="240" height="72" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8362UTUGjWjnI53g-RlK-65" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="680" y="360" width="105" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
