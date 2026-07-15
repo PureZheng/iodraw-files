@@ -231,8 +231,8 @@
         <mxCell id="rJYylDxFk9m5wT6ANFye-78" value="资源需求表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="610" width="80" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-84" value="出库计划表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="3340" y="990" width="80" height="46" as="geometry" />
+        <mxCell id="rJYylDxFk9m5wT6ANFye-84" value="资源分配建议报告" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="3340" y="990" width="110" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
