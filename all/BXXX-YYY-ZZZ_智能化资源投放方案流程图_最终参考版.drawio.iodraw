@@ -226,8 +226,8 @@
         <mxCell id="rJYylDxFk9m5wT6ANFye-74" value="出库计划表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="610" width="80" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-76" value="报表识别智能体&lt;br&gt;调用表格解析工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
-          <mxGeometry x="612.5" y="933" width="190" height="76" as="geometry" />
+        <mxCell id="rJYylDxFk9m5wT6ANFye-76" value="提交各区域资源需求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="716" width="190" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
