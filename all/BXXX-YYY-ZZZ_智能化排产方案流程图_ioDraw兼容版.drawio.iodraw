@@ -89,10 +89,10 @@
           <mxGeometry x="3510" y="432" width="220" height="72" as="geometry" />
         </mxCell>
         <mxCell id="28" value="接收上报的智能化排产方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="3720" y="577" width="220" height="72" as="geometry" />
+          <mxGeometry x="3510" y="577" width="220" height="72" as="geometry" />
         </mxCell>
         <mxCell id="29" value="结束" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.4;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="3980" y="590" width="90" height="46" as="geometry" />
+          <mxGeometry x="3790" y="589.5" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="30" value="报表识别与解析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="562.5" y="760" width="180" height="72" as="geometry" />
