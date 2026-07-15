@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" compressed="false" version="24.7.17">
   <diagram id="1" name="智能化资源投放方案流程图">
-    <mxGraphModel dx="995" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5200" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="3411" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5200" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="29" value="汇总并上传出库计划表、资源需求表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="585" y="556.5" width="225" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="30" target="34">
+        <mxCell id="rJYylDxFk9m5wT6ANFye-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="30" target="34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="900" y="593" />
@@ -100,7 +100,7 @@
         <mxCell id="30" value="补充或重新上传报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="940" y="556.5" width="190" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="31" target="32">
+        <mxCell id="rJYylDxFk9m5wT6ANFye-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="31" target="32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="31" value="在线查看、校验、修改并导出方案成果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
@@ -219,22 +219,22 @@
         <mxCell id="72" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#000000;strokeWidth=1.1;fontFamily=Microsoft YaHei;fontSize=11;fontColor=#000000;labelBackgroundColor=#FFFFFF;" parent="1" source="32" target="33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-74" value="出库计划表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="rJYylDxFk9m5wT6ANFye-74" value="出库计划表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="715" y="610" width="80" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rJYylDxFk9m5wT6ANFye-76" target="29">
+        <mxCell id="rJYylDxFk9m5wT6ANFye-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rJYylDxFk9m5wT6ANFye-76" target="29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-76" value="提交各区域资源需求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+        <mxCell id="rJYylDxFk9m5wT6ANFye-76" value="提交各区域资源需求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="460" y="716" width="190" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-78" value="资源需求表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="rJYylDxFk9m5wT6ANFye-78" value="资源需求表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="610" width="80" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-84" value="资源分配建议报告" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="rJYylDxFk9m5wT6ANFye-84" value="资源分配建议报告" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="3340" y="990" width="110" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-85" value="销售和调运计划表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="rJYylDxFk9m5wT6ANFye-85" value="销售和调运计划表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="3460" y="990" width="110" height="46" as="geometry" />
         </mxCell>
       </root>
