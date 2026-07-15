@@ -71,7 +71,7 @@
           <mxGeometry x="565" y="122" width="175" height="66" as="geometry" />
         </mxCell>
         <mxCell id="24" value="接收并下发生产计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="790" y="267" width="180" height="66" as="geometry" />
+          <mxGeometry x="562.5" y="269" width="180" height="66" as="geometry" />
         </mxCell>
         <mxCell id="25" value="结合生产计划和区域市场需求提交资源需求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="1020" y="412" width="220" height="70" as="geometry" />
