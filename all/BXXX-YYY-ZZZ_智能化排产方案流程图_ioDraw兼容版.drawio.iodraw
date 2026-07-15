@@ -74,7 +74,7 @@
           <mxGeometry x="762.5" y="276.5" width="235" height="72" as="geometry" />
         </mxCell>
         <mxCell id="25" value="补充或重新上传报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="275" width="190" height="72" as="geometry" />
+          <mxGeometry x="1020" y="276.5" width="190" height="72" as="geometry" />
         </mxCell>
         <mxCell id="26" value="在线校验、修改智能化排产方案并提交" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="3160" y="275" width="240" height="72" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="3980" y="590" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="30" value="报表识别与解析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="790" y="760" width="180" height="72" as="geometry" />
+          <mxGeometry x="650" y="760" width="180" height="72" as="geometry" />
         </mxCell>
         <mxCell id="31" value="报表是否有效？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=11;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1010" y="752" width="135" height="88" as="geometry" />
