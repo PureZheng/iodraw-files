@@ -26,7 +26,7 @@
           <mxGeometry x="260" y="220" width="170" height="135" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.3;" parent="1" vertex="1">
-          <mxGeometry x="430" y="220" width="4240" height="135" as="geometry" />
+          <mxGeometry x="430" y="220" width="3920" height="135" as="geometry" />
         </mxCell>
         <mxCell id="10" value="生产单位（包头、榆林、新疆）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.1;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="40" y="355" width="220" height="145" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="260" y="355" width="170" height="145" as="geometry" />
         </mxCell>
         <mxCell id="12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.3;" parent="1" vertex="1">
-          <mxGeometry x="430" y="355" width="4240" height="145" as="geometry" />
+          <mxGeometry x="430" y="355" width="3920" height="145" as="geometry" />
         </mxCell>
         <mxCell id="13" value="化工销售市场管理部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.1;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="40" y="500" width="220" height="185" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="260" y="500" width="170" height="185" as="geometry" />
         </mxCell>
         <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.3;" parent="1" vertex="1">
-          <mxGeometry x="430" y="500" width="4240" height="185" as="geometry" />
+          <mxGeometry x="430" y="500" width="3920" height="185" as="geometry" />
         </mxCell>
         <mxCell id="16" value="各区域营销中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.1;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="40" y="685" width="220" height="135" as="geometry" />
