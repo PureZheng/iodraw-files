@@ -70,7 +70,7 @@
         <mxCell id="23" value="提交各区域资源需求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="565" y="122" width="175" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="24" value="汇总资源需求并上传资源需求表、工厂库存表等报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+        <mxCell id="24" value="汇总资源需求并上传资源需求表等报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="535" y="276.5" width="235" height="72" as="geometry" />
         </mxCell>
         <mxCell id="25" value="补充或重新上传报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
@@ -92,7 +92,7 @@
           <mxGeometry x="562.5" y="760" width="180" height="72" as="geometry" />
         </mxCell>
         <mxCell id="31" value="报表是否有效？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=11;fontColor=#000000;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="887.5" y="740" width="135" height="88" as="geometry" />
+          <mxGeometry x="887.5" y="752" width="135" height="88" as="geometry" />
         </mxCell>
         <mxCell id="32" value="模板内容识别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="1190" y="760" width="180" height="72" as="geometry" />
