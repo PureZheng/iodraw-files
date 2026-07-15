@@ -83,10 +83,10 @@
           <mxGeometry x="602.5" y="254.5" width="190" height="66" as="geometry" />
         </mxCell>
         <mxCell id="28" value="编制并提交出库计划表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="392" width="195" height="70" as="geometry" />
+          <mxGeometry x="600" y="392.5" width="195" height="70" as="geometry" />
         </mxCell>
         <mxCell id="29" value="汇总并上传出库计划表、资源需求表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="1325" y="552" width="235" height="72" as="geometry" />
+          <mxGeometry x="580" y="556.5" width="235" height="72" as="geometry" />
         </mxCell>
         <mxCell id="30" value="补充或重新上传报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="1745" y="552" width="190" height="72" as="geometry" />
