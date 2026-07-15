@@ -73,7 +73,7 @@
         <mxCell id="24" value="汇总资源需求并上传资源需求表等报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="535" y="250" width="235" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="8362UTUGjWjnI53g-RlK-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="25" target="8362UTUGjWjnI53g-RlK-65">
+        <mxCell id="8362UTUGjWjnI53g-RlK-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="25" target="18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="25" value="补充或重新上传报表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
