@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" compressed="false" version="24.7.17">
   <diagram id="1" name="智能化资源投放方案流程图">
-    <mxGraphModel dx="7960" dy="4380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5200" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1327" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5200" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,6 +225,9 @@
         </mxCell>
         <mxCell id="rJYylDxFk9m5wT6ANFye-74" value="出库计划表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="610" width="80" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="rJYylDxFk9m5wT6ANFye-76" value="报表识别智能体&lt;br&gt;调用表格解析工具" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="933" width="190" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
