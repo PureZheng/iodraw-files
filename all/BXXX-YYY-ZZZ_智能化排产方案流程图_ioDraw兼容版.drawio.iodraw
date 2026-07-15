@@ -116,10 +116,10 @@
           <mxGeometry x="1887.5" y="760" width="195" height="72" as="geometry" />
         </mxCell>
         <mxCell id="36" value="资源需求分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="2145" y="760" width="180" height="72" as="geometry" />
+          <mxGeometry x="2140" y="760" width="180" height="72" as="geometry" />
         </mxCell>
         <mxCell id="37" value="效益分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="2365" y="760" width="170" height="72" as="geometry" />
+          <mxGeometry x="2360" y="760" width="170" height="72" as="geometry" />
         </mxCell>
         <mxCell id="38" value="牌号建议生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="2575" y="760" width="180" height="72" as="geometry" />
