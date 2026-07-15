@@ -88,11 +88,9 @@
         <mxCell id="29" value="汇总并上传出库计划表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="605" y="556.5" width="185" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="30" target="34">
+        <mxCell id="rJYylDxFk9m5wT6ANFye-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rJYylDxFk9m5wT6ANFye-78" target="34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="910" y="593" />
-              <mxPoint x="910" y="760" />
               <mxPoint x="698" y="760" />
             </Array>
           </mxGeometry>
@@ -224,7 +222,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rJYylDxFk9m5wT6ANFye-74" value="出库计划表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="610" width="80" height="46" as="geometry" />
+          <mxGeometry x="715" y="610" width="80" height="46" as="geometry" />
         </mxCell>
         <mxCell id="rJYylDxFk9m5wT6ANFye-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rJYylDxFk9m5wT6ANFye-76" target="29">
           <mxGeometry relative="1" as="geometry" />
@@ -232,8 +230,18 @@
         <mxCell id="rJYylDxFk9m5wT6ANFye-76" value="提交各区域资源需求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
           <mxGeometry x="460" y="716" width="190" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="rJYylDxFk9m5wT6ANFye-78" value="出库计划表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="620" width="80" height="46" as="geometry" />
+        <mxCell id="rJYylDxFk9m5wT6ANFye-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="30" target="rJYylDxFk9m5wT6ANFye-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="593" as="sourcePoint" />
+            <mxPoint x="698" y="923" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="593" />
+              <mxPoint x="910" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJYylDxFk9m5wT6ANFye-78" value="资源需求表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="610" width="80" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
