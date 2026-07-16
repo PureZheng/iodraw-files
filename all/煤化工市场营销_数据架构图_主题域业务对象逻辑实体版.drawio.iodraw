@@ -1,278 +1,344 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram id="data-arch" name="图5-1 数据架构图">
-    <mxGraphModel dx="3980" dy="2190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3180" pageHeight="1420" math="0" shadow="0">
+  <diagram id="data-arch-v2" name="图5-1 数据架构图">
+    <mxGraphModel dx="1194" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3630" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="市场动态监测与智能分析系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;fontColor=#FFFFFF;fontSize=28;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="40" y="30" width="2680" height="70" as="geometry" />
+          <mxGeometry x="40" y="30" width="3130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3" value="业务运营" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#333333;strokeColor=#000000;fontColor=#FFFFFF;fontSize=25;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="2680" height="70" as="geometry" />
+          <mxGeometry x="40" y="120" width="3130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4" value="市场营销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#000000;fontColor=#FFFFFF;fontSize=24;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="40" y="210" width="2680" height="70" as="geometry" />
+          <mxGeometry x="40" y="210" width="3130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="市场动态监测与分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BFBFBF;strokeColor=#000000;fontColor=#000000;fontSize=23;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="40" y="300" width="1220" height="70" as="geometry" />
+        <mxCell id="5" value="煤化工产品市场动态监测与分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BFBFBF;strokeColor=#000000;fontColor=#000000;fontSize=23;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="40" y="300" width="1240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6" value="资源优化配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BFBFBF;strokeColor=#000000;fontColor=#000000;fontSize=23;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="300" width="1440" height="70" as="geometry" />
+          <mxGeometry x="1300" y="300" width="1870" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="产品价格" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="40" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="7" value="产品价格数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="企业价格信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="44" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="8" value="企业价格信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="44" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="同行价格信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="44" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="9" value="同行价格信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="44" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="区域价格信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="44" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="10" value="区域价格信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="44" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="价格对标结果" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="44" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="11" value="价格对标结果" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="44" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="市场供需" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="247.1" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="12" value="市场供需数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="250" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="市场供应信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="251.1" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="13" value="市场供应信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="254" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="市场需求信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="251.1" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="14" value="市场需求信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="254" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="产量信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="251.1" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="15" value="产量信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="254" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="开工率信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="251.1" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="16" value="开工率信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="254" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="17" value="行业资讯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="454.2" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="17" value="社会库存信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="254" y="818" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="18" value="行业资讯信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="458.2" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="18" value="行业资讯数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="460" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="19" value="竞品动态信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="458.2" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="19" value="行业资讯信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="464" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="装置检修信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="458.2" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="20" value="竞品动态信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="464" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="21" value="进出口信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="458.2" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="21" value="装置检修信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="464" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="销售订单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="661.2" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="22" value="进出口信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="464" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="销售订单信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="665.2" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="23" value="销售订单数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="670" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="24" value="成交信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="665.2" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="24" value="销售订单信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="674" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="25" value="订单履约信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="665.2" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="25" value="成交产品信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="674" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="26" value="区域销量信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="665.2" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="26" value="成交数量信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="674" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="27" value="客户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="868.3" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="27" value="成交价格信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="674" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="28" value="客户档案信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="872.3" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="28" value="订单履约信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="674" y="818" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="29" value="客户等级信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="872.3" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="29" value="客户数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="880" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="30" value="客户需求信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="872.3" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="30" value="客户档案信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="884" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="31" value="客户合作信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="872.3" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="31" value="客户类型信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="884" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="32" value="市场分析成果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="1075.4" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="32" value="客户等级信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="884" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="33" value="市场数据分析结果" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1079.4" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="33" value="客户需求信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="884" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="34" value="价格对标报告" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1079.4" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="34" value="历史合作信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="884" y="818" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="35" value="市场分析报告" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1079.4" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="35" value="市场分析成果数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="36" value="报告模板信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1079.4" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="36" value="市场数据分析结果" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1094" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="37" value="资源需求" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="1282.5" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="37" value="价格对标报告" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1094" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="38" value="资源需求信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1286.5" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="38" value="市场分析报告" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1094" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="39" value="区域需求信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1286.5" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="39" value="定价建议信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1094" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="40" value="出库计划信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1286.5" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="40" value="报告版本信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1094" y="818" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="41" value="需求分析结果" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1286.5" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="41" value="生产数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="42" value="生产计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="1489.5" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="42" value="工厂产能信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1304" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="43" value="生产计划信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1493.5" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="43" value="生产计划信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1304" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="44" value="排产计划信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1493.5" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="44" value="设备状态信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1304" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="45" value="牌号切换信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1493.5" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="45" value="检修计划信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1304" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="46" value="生产约束信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1493.5" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="46" value="牌号供应能力信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1304" y="818" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="47" value="生产能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="1696.6" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="47" value="库存数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="48" value="工厂产能信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1700.6" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="48" value="厂内及库点库存" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1514" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="49" value="装置运行信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1700.6" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="49" value="异地库库存信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1514" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="50" value="生产负荷信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1700.6" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="50" value="已售未提信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1514" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="51" value="检修计划信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1700.6" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="51" value="在途运输信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1514" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="52" value="库存资源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="1903.7" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="52" value="库存安全阈值" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1514" y="818" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="53" value="厂内库存信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1907.7" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="53" value="订单数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="54" value="异地库库存信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1907.7" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="54" value="区域成交产品" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1724" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="55" value="已售未提信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1907.7" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="55" value="成交数量信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1724" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="56" value="在途资源信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="1907.7" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="56" value="成交价格信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1724" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="57" value="物流运输" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="2110.8" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="57" value="交付周期信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1724" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="58" value="库点信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2114.8" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="58" value="客户订单信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1724" y="818" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="59" value="运输路线信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2114.8" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="59" value="财务数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="1930" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="60" value="物流费用信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2114.8" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="60" value="产品成本信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1934" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="61" value="运输时效信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2114.8" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="61" value="销售利润信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1934" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="62" value="财务效益" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="2317.8" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="62" value="区域收益信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1934" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="63" value="产品成本信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2321.8" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="63" value="区域价差信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1934" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="64" value="销售收入信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2321.8" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="64" value="物流成本信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="1934" y="818" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="65" value="利润信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2321.8" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="65" value="市场数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="2140" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="66" value="综合效益信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2321.8" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="66" value="产品市场成交价" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2144" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="67" value="资源优化成果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="2524.9" y="400" width="195.1" height="62" as="geometry" />
+        <mxCell id="67" value="市场供应信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2144" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="68" value="排产建议表" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2528.9" y="490" width="187.1" height="64" as="geometry" />
+        <mxCell id="68" value="市场需求信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2144" y="654" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="69" value="排产建议报告" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2528.9" y="572" width="187.1" height="64" as="geometry" />
+        <mxCell id="69" value="价格波动信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2144" y="736" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="70" value="销售及调运计划表" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2528.9" y="654" width="187.1" height="64" as="geometry" />
+        <mxCell id="70" value="竞品投放布局" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2144" y="818" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="71" value="在线校验结果" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=16;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
-          <mxGeometry x="2528.9" y="736" width="187.1" height="64" as="geometry" />
+        <mxCell id="71" value="客户数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="2350" y="400" width="190" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="72" value="说明：主题域层级及编码以集团数据主题域框架最终确认结果为准。图中逻辑数据实体根据本项目需求范围初步识别，后续在5.2和5.3章节中进一步定义。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=14;align=left;verticalAlign=top;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="40" y="870" width="2680" height="55" as="geometry" />
+        <mxCell id="72" value="客户类型信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2354" y="490" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="73" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="2820" y="64" width="1" height="1" as="geometry" />
+        <mxCell id="73" value="合作等级信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2354" y="572" width="182" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="2" target="73" edge="1">
+        <mxCell id="74" value="需求强度信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2354" y="654" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="75" value="历史合作记录" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2354" y="736" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="76" value="资源需求数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="2560" y="400" width="190" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="77" value="生产工厂信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2564" y="490" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="78" value="产品类别信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2564" y="572" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="79" value="产品牌号信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2564" y="654" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="80" value="需求数量及区域需求" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2564" y="736" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="81" value="预计出库量信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2564" y="818" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="82" value="物流数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="2770" y="400" width="190" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="83" value="区域物流成本" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2774" y="490" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="84" value="运输路线信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2774" y="572" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="85" value="运输方式信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2774" y="654" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="86" value="运输时效信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2774" y="736" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="87" value="调运批次信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2774" y="818" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="88" value="资源优化成果数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#000000;fontColor=#FFFFFF;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="2980" y="400" width="190" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="89" value="排产建议表" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2984" y="490" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="90" value="排产建议报告" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2984" y="572" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="91" value="销售及调运计划表" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2984" y="654" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="92" value="在线校验结果" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2984" y="736" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="93" value="修改记录信息" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fontSize=15;align=center;verticalAlign=middle;fontFamily=Microsoft YaHei;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="2984" y="818" width="182" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="94" value="说明：主题域层级及编码以集团数据主题域框架最终确认结果为准。资源优化配置的数据项和数据内容依据智能化排产方案、智能化资源投放方案需求识别。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=14;align=left;verticalAlign=top;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="40" y="930" width="3130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="95" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="3200" y="65" width="1" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="2" target="95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="75" value="系统名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="2845" y="37" width="300" height="56" as="geometry" />
+        <mxCell id="97" value="系统名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="3290" y="37" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="76" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="2820" y="154" width="1" height="1" as="geometry" />
+        <mxCell id="98" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="3200" y="155" width="1" height="1" as="geometry" />
         </mxCell>
-        <mxCell id="77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="3" target="76" edge="1">
+        <mxCell id="99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="3" target="98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="78" value="一级主题域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="2845" y="127" width="300" height="56" as="geometry" />
+        <mxCell id="100" value="一级主题域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="3290" y="127" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="79" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="2820" y="244" width="1" height="1" as="geometry" />
+        <mxCell id="101" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="3200" y="245" width="1" height="1" as="geometry" />
         </mxCell>
-        <mxCell id="80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="4" target="79" edge="1">
+        <mxCell id="102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="4" target="101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="81" value="二级主题域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="2845" y="217" width="300" height="56" as="geometry" />
+        <mxCell id="103" value="二级主题域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="3290" y="217" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="82" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="2820" y="334" width="1" height="1" as="geometry" />
+        <mxCell id="104" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="3200" y="335" width="1" height="1" as="geometry" />
         </mxCell>
-        <mxCell id="83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="6" target="82" edge="1">
+        <mxCell id="105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="6" target="104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="84" value="三级主题域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="2845" y="307" width="300" height="56" as="geometry" />
+        <mxCell id="106" value="三级主题域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="3290" y="307" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="85" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="2820" y="430" width="1" height="1" as="geometry" />
+        <mxCell id="107" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="3200" y="431" width="1" height="1" as="geometry" />
         </mxCell>
-        <mxCell id="86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="67" target="85" edge="1">
+        <mxCell id="108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" parent="1" source="88" target="107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="87" value="业务对象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="2845" y="403" width="300" height="56" as="geometry" />
+        <mxCell id="109" value="业务对象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="3290" y="403" width="300" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="88" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="2720" y="650" width="1" height="1" as="geometry" />
+        <mxCell id="110" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="3170" y="650" width="1" height="1" as="geometry" />
         </mxCell>
-        <mxCell id="89" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="2820" y="650" width="1" height="1" as="geometry" />
+        <mxCell id="111" value="" style="shape=ellipse;perimeter=ellipsePerimeter;fillColor=none;strokeColor=none;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="3200" y="650" width="1" height="1" as="geometry" />
         </mxCell>
-        <mxCell id="90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="88" target="89" edge="1">
+        <mxCell id="112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;" parent="1" source="110" target="111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="91" value="逻辑数据实体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
-          <mxGeometry x="2845" y="622" width="300" height="56" as="geometry" />
+        <mxCell id="113" value="逻辑数据实体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontColor=#000000;fontSize=24;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Microsoft YaHei;" parent="1" vertex="1">
+          <mxGeometry x="3290" y="622" width="300" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
