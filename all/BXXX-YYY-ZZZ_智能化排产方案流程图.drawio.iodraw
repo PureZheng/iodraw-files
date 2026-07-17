@@ -212,6 +212,9 @@
         <mxCell id="8362UTUGjWjnI53g-RlK-74" value="排产建议报告" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="3140" y="820" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-srNuspm0FvqpoCa_fxQ-65" value="厂侧生产能力分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.2;fontFamily=Microsoft YaHei;fontSize=12;fontColor=#000000;align=center;verticalAlign=middle;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="2145" y="910" width="195" height="72" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
