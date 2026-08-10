@@ -91,12 +91,6 @@
         <mxCell id="common-agent-6" value="模板内容识别智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#f8cccc;strokeColor=#c97a75;fontSize=20;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="865" width="305" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="common-agent-7" value="数据识别智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#f8cccc;strokeColor=#c97a75;fontSize=20;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="135" y="1010" width="305" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="common-agent-8" value="分段内容编写智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#f8cccc;strokeColor=#c97a75;fontSize=20;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="1010" width="305" height="95" as="geometry" />
-        </mxCell>
         <mxCell id="common-agent-9" value="报告生成智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dcebd8;strokeColor=#79ae68;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="135" y="1155" width="305" height="95" as="geometry" />
         </mxCell>
@@ -138,12 +132,6 @@
         </mxCell>
         <mxCell id="schedule-11" value="牌号建议生成智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#ffffff;strokeColor=#111827;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="895" y="1295" width="480" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="allocation-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff7c9;strokeColor=#d9b84c;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="390" width="570" height="1065" as="geometry" />
-        </mxCell>
-        <mxCell id="allocation-title" value="资源投放方案生成智能体（共12个智能体）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=22;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1475" y="405" width="520" height="48" as="geometry" />
         </mxCell>
         <mxCell id="allocation-1" value="报表识别智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#f8cccc;strokeColor=#c97a75;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1495" y="475" width="480" height="64" as="geometry" />
@@ -300,6 +288,9 @@
         </mxCell>
         <mxCell id="scenario" value="适&#xa;用&#xa;场&#xa;景&#xa;：&#xa;煤&#xa;化&#xa;工&#xa;市&#xa;场&#xa;营&#xa;销&#xa;—&#xa;资&#xa;源&#xa;优&#xa;化&#xa;配&#xa;置" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#ffffff;strokeColor=#111827;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="2110" y="105" width="70" height="2050" as="geometry" />
+        </mxCell>
+        <mxCell id="BJUwpVY86xHDxdhaarZc-1" value="报表识别智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#f8cccc;strokeColor=#c97a75;fontSize=21;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="485" width="480" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
