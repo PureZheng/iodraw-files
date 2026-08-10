@@ -289,7 +289,7 @@
         <mxCell id="scenario" value="适&#xa;用&#xa;场&#xa;景&#xa;：&#xa;煤&#xa;化&#xa;工&#xa;市&#xa;场&#xa;营&#xa;销&#xa;—&#xa;资&#xa;源&#xa;优&#xa;化&#xa;配&#xa;置" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#ffffff;strokeColor=#111827;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="2110" y="105" width="70" height="2050" as="geometry" />
         </mxCell>
-        <mxCell id="BJUwpVY86xHDxdhaarZc-1" value="报表识别智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#f8cccc;strokeColor=#c97a75;fontSize=21;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="BJUwpVY86xHDxdhaarZc-1" value="智能化排产智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#f8cccc;strokeColor=#c97a75;fontSize=21;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="895" y="390" width="480" height="64" as="geometry" />
         </mxCell>
         <mxCell id="BJUwpVY86xHDxdhaarZc-2" value="报表识别智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#f8cccc;strokeColor=#c97a75;fontSize=21;fontStyle=1;" vertex="1" parent="1">
