@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="overall-architecture-detail" name="3.2总体业务架构图">
-    <mxGraphModel dx="2385" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2250" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="2250" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,9 +58,6 @@
         <mxCell id="cap-title" value="煤化工市场营销—资源优化配置智能体服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=31;" parent="1" vertex="1">
           <mxGeometry x="470" y="320" width="1260" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="common-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;strokeWidth=2;dashed=1;dashPattern=4 4;" parent="1" vertex="1">
-          <mxGeometry x="100" y="530" width="705" height="600" as="geometry" />
-        </mxCell>
         <mxCell id="common-title" value="市场数据分析与报告类智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="550" width="655" height="45" as="geometry" />
         </mxCell>
@@ -78,9 +75,6 @@
         </mxCell>
         <mxCell id="common-ext" value="外部专用智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#f6f7f9;strokeColor=#5e6775;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="205" y="900" width="495" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="schedule-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fffaf2;strokeColor=#d9a62e;strokeWidth=2;dashed=1;dashPattern=4 4;" parent="1" vertex="1">
-          <mxGeometry x="850" y="390" width="570" height="1065" as="geometry" />
         </mxCell>
         <mxCell id="schedule-title" value="智能化排产智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#ffe7c2;strokeColor=#d9a62e;fontSize=22;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="895" y="405" width="480" height="64" as="geometry" />
@@ -117,9 +111,6 @@
         </mxCell>
         <mxCell id="schedule-11" value="牌号建议生成智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#fff0d7;strokeColor=#d9a62e;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="895" y="1295" width="480" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="allocation-group" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#faf7fc;strokeColor=#9c76bb;strokeWidth=2;dashed=1;dashPattern=4 4;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="390" width="570" height="1065" as="geometry" />
         </mxCell>
         <mxCell id="allocation-title" value="智能化资源投放智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#e6d8ef;strokeColor=#9c76bb;fontSize=22;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1495" y="405" width="480" height="64" as="geometry" />
