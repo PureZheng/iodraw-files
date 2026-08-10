@@ -61,7 +61,7 @@
         <mxCell id="common-title" value="市场数据分析与报告类智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="550" width="655" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="common-domain-1" value="市场数据分析智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#fff3cf;strokeColor=#d6ad42;fontSize=19;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="common-domain-1" value="市场数据分析智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=19;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="625" width="205" height="75" as="geometry" />
         </mxCell>
         <mxCell id="common-domain-2" value="价格对标报告智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=18;fontStyle=1;" parent="1" vertex="1">
@@ -76,7 +76,7 @@
         <mxCell id="common-ext" value="外部专用智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#f6f7f9;strokeColor=#5e6775;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="205" y="900" width="495" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="schedule-title" value="智能化排产智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#ffe7c2;strokeColor=#d9a62e;fontSize=22;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="schedule-title" value="智能化排产智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=22;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="895" y="405" width="480" height="64" as="geometry" />
         </mxCell>
         <mxCell id="schedule-1" value="报表识别智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#fff0d7;strokeColor=#d9a62e;fontSize=21;fontStyle=1;" parent="1" vertex="1">
