@@ -58,6 +58,9 @@
         <mxCell id="cap-title" value="煤化工市场营销—资源优化配置智能体服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=31;" parent="1" vertex="1">
           <mxGeometry x="470" y="320" width="1260" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="common-title" value="市场数据分析与报告类智能体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="405" width="520" height="64" as="geometry" />
+        </mxCell>
         <mxCell id="common-domain-1" value="市场数据分析智能体" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#fff3cf;strokeColor=#d6ad42;fontSize=21;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="475" width="520" height="64" as="geometry" />
         </mxCell>
