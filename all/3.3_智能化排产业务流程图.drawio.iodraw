@@ -47,10 +47,10 @@
           <mxGeometry x="980" y="372" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="judge1" value="方案是否 确认定稿？" style="shape=rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="342" width="200" height="130" as="geometry" />
+          <mxGeometry x="1313" y="337" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="act5" value="导出并上报集团 （线下）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1218" y="589" width="220" height="60" as="geometry" />
+          <mxGeometry x="1303" y="588" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="act7" value="上传正式方案库 （版本冻结）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="180" y="590" width="230" height="60" as="geometry" />
@@ -88,7 +88,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_judge1_act4" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;fontFamily=Microsoft YaHei;fontSize=12;dashed=1;" parent="1" source="judge1" target="act4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1413" y="294" />
+              <mxPoint x="1080" y="294" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e_judge1_act5" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;fontFamily=Microsoft YaHei;fontSize=12;" parent="1" source="judge1" target="act5" edge="1">
           <mxGeometry relative="1" as="geometry" />
