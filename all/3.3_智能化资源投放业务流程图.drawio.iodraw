@@ -32,40 +32,31 @@
           <mxGeometry x="735" y="178" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="doc1" value="《月度销售及调运计划表》" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="180" width="220" height="60" as="geometry" />
+          <mxGeometry x="1115" y="179" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="act3" value="上传正式月度方案 （冻结为月内基准）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="180" y="440" width="250" height="60" as="geometry" />
+          <mxGeometry x="386" y="444" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="act4" value="周度滚动·一键生成 （每周最后工作日）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="480" y="440" width="250" height="60" as="geometry" />
+          <mxGeometry x="686" y="444" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="doc2" value="《周度销售及调运计划表》" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="780" y="440" width="260" height="60" as="geometry" />
+          <mxGeometry x="986" y="444" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="act5" value="上传正式周度方案 （归档）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="440" width="260" height="60" as="geometry" />
+          <mxGeometry x="1266" y="444" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n_end" value="结束" style="shape=mxgraph.flowchart.terminator;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1380" y="444" width="100" height="52" as="geometry" />
+          <mxGeometry x="1586" y="448" width="100" height="52" as="geometry" />
         </mxCell>
         <mxCell id="act6" value="查看正式方案库 （只读·监管）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#e9ddf0;strokeColor=#9c76bb;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="480" y="660" width="260" height="60" as="geometry" />
+          <mxGeometry x="686" y="664" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e_act1_act2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="act1" target="act2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_act2_doc1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="act2" target="doc1" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e_doc1_act3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="doc1" target="act3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1250" y="309" />
-              <mxPoint x="686" y="309" />
-              <mxPoint x="686" y="470" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="e_act3_act4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="act3" target="act4" edge="1">
           <mxGeometry relative="1" as="geometry" />
