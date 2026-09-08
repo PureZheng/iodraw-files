@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="图 3.3-2  智能化资源投放业务流程图（泳道版）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=18;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry width="1700" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="lane_bg_0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fbfbfd;strokeColor=#e5e7eb;fontSize=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="60" width="1530" height="560" as="geometry" />
         </mxCell>
@@ -49,9 +46,6 @@
         <mxCell id="n_end" value="结束" style="shape=mxgraph.flowchart.terminator;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1586" y="448" width="100" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="act6" value="查看正式方案库 （只读·监管）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#e9ddf0;strokeColor=#9c76bb;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="686" y="664" width="260" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="e_act1_act2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="act1" target="act2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -70,8 +64,10 @@
         <mxCell id="e_act5_n_end" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="act5" target="n_end" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e_act5_act6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;fontFamily=Microsoft YaHei;fontSize=12;dashed=1;" parent="1" source="act5" target="act6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e_act5_act6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;fontFamily=Microsoft YaHei;fontSize=12;dashed=1;" parent="1" source="act5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="816.0909090909086" y="664" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="legend" value="图形规范（按原型流程图规范）：椭圆＝开始 / 结束 · 矩形＝流程活动（蓝＝营销单位用户 / 紫＝集团化工部用户）· 文档形＝输入 / 输出文档 · 虚线＝只读 / 参考 · 投放业务为月度+周度双周期循环：月内每周滚动，月末进入下月" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=Microsoft YaHei;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="20" y="800" width="1660" height="30" as="geometry" />
