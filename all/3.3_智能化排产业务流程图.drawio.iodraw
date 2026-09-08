@@ -40,10 +40,10 @@
         <mxCell id="act3" value="一键生成排产建议" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="500" y="372" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="doc2" value="《排产建议表》 （20 列）" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="doc2" value="《排产建议表》&amp;nbsp;" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="760" y="372" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="act4" value="在线编辑调整 （实时保存）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="act4" value="在线编辑调整&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="980" y="372" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="judge1" value="方案是否 确认定稿？" style="shape=rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
