@@ -28,7 +28,7 @@
         <mxCell id="act1" value="查看区域利润分析" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="360" y="178" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="act2" value="月度配置·一键生成 （每月最后工作日）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="act2" value="月度配置·一键生成&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="735" y="178" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="doc1" value="《月度销售及调运计划表》" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=12;" parent="1" vertex="1">
