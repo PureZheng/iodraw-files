@@ -19,6 +19,9 @@
         <mxCell id="lane_lbl_1" value="集团化工部用户" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#eef1f5;strokeColor=#cbd5e1;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry y="630" width="170" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="BTpLWHwWqKFBZFR1l6RU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n_start" target="act1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n_start" value="开始" style="shape=mxgraph.flowchart.terminator;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="180" width="100" height="56" as="geometry" />
         </mxCell>
@@ -49,11 +52,6 @@
         <mxCell id="act6" value="查看正式方案库 （只读·监管）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#e9ddf0;strokeColor=#9c76bb;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="480" y="660" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e_n_start_doc0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="n_start" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="210.090909090909" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e_doc0_act1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" target="act1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="210" as="sourcePoint" />
@@ -68,7 +66,9 @@
         <mxCell id="e_doc1_act3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="doc1" target="act3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="391" y="210" />
+              <mxPoint x="1250" y="309" />
+              <mxPoint x="686" y="309" />
+              <mxPoint x="686" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
