@@ -22,9 +22,6 @@
         <mxCell id="n_start" value="开始" style="shape=mxgraph.flowchart.terminator;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="180" width="100" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="doc0" value="《出库计划表》接入 （上游系统按月）" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="320" y="180" width="200" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="act1" value="查看区域利润分析 （每日刷新）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="570" y="180" width="230" height="60" as="geometry" />
         </mxCell>
@@ -52,11 +49,15 @@
         <mxCell id="act6" value="查看正式方案库 （只读·监管）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#e9ddf0;strokeColor=#9c76bb;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="480" y="660" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e_n_start_doc0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="n_start" target="doc0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e_n_start_doc0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="n_start" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="210.090909090909" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="e_doc0_act1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="doc0" target="act1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="e_doc0_act1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" target="act1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="210" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e_act1_act2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="act1" target="act2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +66,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e_doc1_act3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="doc1" target="act3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="391" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e_act3_act4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="act3" target="act4" edge="1">
           <mxGeometry relative="1" as="geometry" />
