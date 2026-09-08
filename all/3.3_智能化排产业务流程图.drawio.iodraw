@@ -47,7 +47,7 @@
           <mxGeometry x="930" y="320" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="judge1" value="方案是否 确认定稿？" style="shape=rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="305" width="200" height="130" as="geometry" />
+          <mxGeometry x="1228" y="285" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="act5" value="导出并上报集团 （线下）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1170" y="590" width="220" height="60" as="geometry" />
@@ -70,7 +70,8 @@
         <mxCell id="e_doc1_act2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="doc1" target="act2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="673" y="350" />
+              <mxPoint x="673" y="244" />
+              <mxPoint x="295" y="244" />
             </Array>
           </mxGeometry>
         </mxCell>
