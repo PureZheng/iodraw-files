@@ -46,7 +46,7 @@
         <mxCell id="judge1" value="方案是否 确认定稿？" style="shape=rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1313" y="337" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="act5" value="导出并上报集团 （线下）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="act5" value="导出并上报集团" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1303" y="588" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="act7" value="上传正式方案库 （版本冻结）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="e_act7_n_end" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=#5e6775;strokeWidth=1.6;endArrow=block;" parent="1" source="act7" target="n_end" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5N9QXv3naCGxE4LYKUxS-1" value="查看市场机会分析&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="240" y="382" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
