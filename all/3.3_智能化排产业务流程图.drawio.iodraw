@@ -47,7 +47,7 @@
           <mxGeometry x="980" y="372" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="judge1" value="方案是否 确认定稿？" style="shape=rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1278" y="337" width="200" height="130" as="geometry" />
+          <mxGeometry x="1230" y="342" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="act5" value="导出并上报集团 （线下）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#dce8fa;strokeColor=#6d96cf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1218" y="589" width="220" height="60" as="geometry" />
