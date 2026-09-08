@@ -28,7 +28,7 @@
         <mxCell id="n_start" value="开始" style="shape=mxgraph.flowchart.terminator;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="130" width="100" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="act1" value="填报可产信息 （每月 10 日截止）" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#fff3cf;strokeColor=#d6ad42;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="act1" value="填报可产信息&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fontFamily=Microsoft YaHei;fillColor=#fff3cf;strokeColor=#d6ad42;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="320" y="128" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="doc1" value="《可产产品名单》 （系统汇总）" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeWidth=2;fillColor=#ffffff;strokeColor=#111827;fontFamily=Microsoft YaHei;fontSize=12;" parent="1" vertex="1">
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="673" y="244" />
-              <mxPoint x="295" y="244" />
+              <mxPoint x="345" y="244" />
             </Array>
           </mxGeometry>
         </mxCell>
