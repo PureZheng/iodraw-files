@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="集成架构图" id="roc-integration">
-    <mxGraphModel dx="1363" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1160" pageHeight="620" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1160" pageHeight="620" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="frame" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="1120" height="580" as="geometry" />
+          <mxGeometry x="20" y="20" width="1190" height="580" as="geometry" />
         </mxCell>
         <mxCell id="center" value="&lt;div&gt;国能煤化工行业大模型&lt;/div&gt;&lt;div&gt;研究与应用项目&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;煤化工市场营销-&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;资源优化配置业务场景&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#808080;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="440" y="210" width="280" height="200" as="geometry" />
