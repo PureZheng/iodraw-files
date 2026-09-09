@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="frame" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="1190" height="580" as="geometry" />
+          <mxGeometry x="20" y="20" width="1190" height="600" as="geometry" />
         </mxCell>
         <mxCell id="center" value="&lt;div&gt;国能煤化工行业大模型&lt;/div&gt;&lt;div&gt;研究与应用项目&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;煤化工市场营销-&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;资源优化配置业务场景&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#808080;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="440" y="210" width="280" height="200" as="geometry" />
@@ -81,6 +81,12 @@
             <Array as="points">
               <mxPoint x="790" y="320" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WwnqkeW4T8l9RXHHilJX-3" style="edgeStyle=none;html=1;strokeColor=#808080;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
