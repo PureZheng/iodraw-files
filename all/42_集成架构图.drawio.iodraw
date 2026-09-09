@@ -11,7 +11,7 @@
           <mxGeometry x="440" y="210" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="left-cyl" value="市场动态监测与&lt;br&gt;智能分析系统" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffffff;strokeColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="240" y="240" width="170" height="100" as="geometry" />
+          <mxGeometry x="230" y="260" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="left-txt" value="外部市场价格、&lt;br&gt;外部市场资讯等" style="text;html=1;align=right;verticalAlign=middle;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="40" y="255" width="185" height="70" as="geometry" />
@@ -81,6 +81,12 @@
             <Array as="points">
               <mxPoint x="790" y="320" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WwnqkeW4T8l9RXHHilJX-1" style="edgeStyle=none;html=1;strokeColor=#808080;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
