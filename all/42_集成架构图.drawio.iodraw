@@ -78,12 +78,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="100" as="sourcePoint" />
             <mxPoint x="790" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bus-arrow" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;strokeColor=#808080;endFill=1;startFill=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="310" as="sourcePoint" />
-            <mxPoint x="724" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
