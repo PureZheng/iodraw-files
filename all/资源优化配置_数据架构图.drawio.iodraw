@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="数据架构图" id="arch-003">
-    <mxGraphModel dx="2385" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1316" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1316" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,16 +11,16 @@
           <mxGeometry x="55" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4" value="【数据API服务】&lt;br&gt;Restful接口&lt;br&gt;权限校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="210" y="78" width="140" height="70" as="geometry" />
+          <mxGeometry x="195" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5" value="【数据同步服务】&lt;br&gt;定时调度&lt;br&gt;源端推送" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="365" y="78" width="140" height="70" as="geometry" />
+          <mxGeometry x="350" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6" value="【数据导出服务】&lt;br&gt;Excel导出&lt;br&gt;报表下载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="520" y="78" width="140" height="70" as="geometry" />
+          <mxGeometry x="505" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7" value="【对象存储服务】&lt;br&gt;MinIO&lt;br&gt;文件归档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="675" y="78" width="140" height="70" as="geometry" />
+          <mxGeometry x="660" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8" value="【主数据】&lt;br&gt;· 库点主数据&lt;br&gt;· 牌号主数据&lt;br&gt;· 对标主数据&lt;br&gt;· 物流成本主数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="60" y="248" width="360" height="134" as="geometry" />
