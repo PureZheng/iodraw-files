@@ -11,13 +11,13 @@
           <mxGeometry x="55" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4" value="【数据API服务】&lt;br&gt;Restful接口&lt;br&gt;权限校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="195" y="78" width="140" height="70" as="geometry" />
+          <mxGeometry x="206" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5" value="【数据同步服务】&lt;br&gt;定时调度&lt;br&gt;源端推送" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="350" y="78" width="140" height="70" as="geometry" />
+          <mxGeometry x="357" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6" value="【数据导出服务】&lt;br&gt;Excel导出&lt;br&gt;报表下载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="505" y="78" width="140" height="70" as="geometry" />
+          <mxGeometry x="509" y="78" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7" value="【对象存储服务】&lt;br&gt;MinIO&lt;br&gt;文件归档" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="660" y="78" width="140" height="70" as="geometry" />
