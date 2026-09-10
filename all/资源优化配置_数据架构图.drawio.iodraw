@@ -85,23 +85,23 @@
         <mxCell id="23" value="【内部业务系统集成】&lt;br&gt;&lt;br&gt;· 智慧化工及产业监控平台      · 集团数据湖      · 国能e商&lt;br&gt;&lt;br&gt;· ERP      · 智慧销售物流平台      · 市场动态监测与智能分析系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="67" y="910" width="720" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zfnPIwXilpNVN-EZLDoi-30" value="【定时调度同步】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1180" width="95" height="48" as="geometry" />
+        <mxCell id="zfnPIwXilpNVN-EZLDoi-30" value="智慧化工及产业监控平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1180" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="zfnPIwXilpNVN-EZLDoi-31" value="【定时调度同步】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="178" y="1180" width="95" height="48" as="geometry" />
+          <mxGeometry x="193" y="1180" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="zfnPIwXilpNVN-EZLDoi-32" value="【定时调度同步】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="301" y="1180" width="95" height="48" as="geometry" />
+          <mxGeometry x="316" y="1180" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="zfnPIwXilpNVN-EZLDoi-33" value="【定时调度同步】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="424" y="1180" width="95" height="48" as="geometry" />
+          <mxGeometry x="439" y="1180" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="zfnPIwXilpNVN-EZLDoi-34" value="【定时调度同步】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="547" y="1180" width="95" height="48" as="geometry" />
+          <mxGeometry x="562" y="1180" width="95" height="48" as="geometry" />
         </mxCell>
         <mxCell id="zfnPIwXilpNVN-EZLDoi-35" value="【定时调度同步】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1180" width="95" height="48" as="geometry" />
+          <mxGeometry x="685" y="1180" width="95" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
