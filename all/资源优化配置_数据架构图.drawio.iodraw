@@ -46,25 +46,25 @@
         <mxCell id="14" value="【运行支撑数据】&lt;br&gt;· 对话记录数据&lt;br&gt;· 对话消息数据&lt;br&gt;· 操作日志数据&lt;br&gt;· 编辑留痕数据&lt;br&gt;· 外部价格指标数据&lt;br&gt;· 外部价格序列数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="450" y="570" width="360" height="178" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="【数据接入层】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=15;fontStyle=1;verticalAlign=top;spacingTop=6;" parent="1" vertex="1">
+        <mxCell id="16" value="【数据接入层】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=15;fontStyle=1;verticalAlign=top;spacingTop=6;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="976" width="770" height="100" as="geometry" />
         </mxCell>
         <mxCell id="17" value="【定时调度同步】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="55" y="1014" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="18" value="【源端定时推送】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1014" width="140" height="48" as="geometry" />
+          <mxGeometry x="195" y="1014" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="19" value="【报表上传解析】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="365" y="1014" width="140" height="48" as="geometry" />
+          <mxGeometry x="350" y="1014" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="20" value="【数据清洗与标准化】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1014" width="140" height="48" as="geometry" />
+          <mxGeometry x="505" y="1014" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="21" value="【牌号跨系统归一】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="675" y="1014" width="140" height="48" as="geometry" />
+          <mxGeometry x="660" y="1014" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="【数据源层】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=15;fontStyle=1;verticalAlign=top;spacingTop=6;" parent="1" vertex="1">
+        <mxCell id="22" value="【数据源层】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#333333;strokeWidth=1.5;fontSize=15;fontStyle=1;verticalAlign=top;spacingTop=6;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="1126" width="770" height="130" as="geometry" />
         </mxCell>
         <mxCell id="23" value="【内部业务系统集成】&lt;br&gt;&lt;br&gt;· 智慧化工及产业监控平台      · 集团数据湖      · 国能e商&lt;br&gt;&lt;br&gt;· ERP      · 智慧销售物流平台      · 市场动态监测与智能分析系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#555555;dashed=1;strokeWidth=1.2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
